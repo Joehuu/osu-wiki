@@ -17,25 +17,26 @@ Welcome to osu!, a free-to-win rhythm game developed by peppy with four game mod
 
 ## Article of the month
 
-_See also: [Performance Points](/wiki/Performance_Points)._
+_Main article: [Performance Points](/wiki/Performance_Points)._
 
 Performance Points are a value from a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!. It tries to do this by shifting the focus of skill progression from the amount of time played to the actual representation of the player's skill.
 
 ## Beatmapping
 
-_See also: [Beatmapping](/wiki/Beatmapping/#getting-started)._
+_Main article: [Beatmapping](/wiki/Beatmapping/#getting-started)._
 
 Beatmapping is the process of a creator creating a beatmap. This process includes: selecting music, timing and mapping the beatmap, and testing the beatmap. It might also include: adding a video, adding a [storyboard](/wiki/storyboarding/#getting-started), and/or adding a [custom skin](/wiki/skinning/#getting-started). All of those can be done by the creator alone or with other users, sometimes referred to as _storyboarders_, _skinners_, and/or _guest creators_, depending on what they do.
 
 ## Modding
 
-_See also: [Modding](/wiki/Modding/#getting-started)._
+_Main article: [Modding](/wiki/Modding/#getting-started)._
 
 Modding is the process of users reviewing (or commonly called "modders") a creator's beatmap in the pending (or work in progress/help) stage. Modding plays a big role in quality control because this allows creators to fix issues with their beatmap.
 
 ## Skinning
 
-*See also: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+_Main article: [Skinning](/wiki/Skinning)
+_See also: [Skinning Tutorial](/wiki/Skinning_Tutorial)._
 
 Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 
