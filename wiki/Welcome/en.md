@@ -35,9 +35,9 @@ Modding is the process of users reviewing (or commonly called "modders") a creat
 
 ## Skinning
 
-_Main article: [Skinning](/wiki/Skinning)_
-
 _See also: [Skinning Tutorial](/wiki/Skinning_Tutorial)._
+
+_Main article: [Skinning](/wiki/Skinning)_
 
 Skinning allows anyone to change the way osu! looks and feels. This can be as small as changing the cursor or as big as redoing the appearances of all the game modes and interface.
 
