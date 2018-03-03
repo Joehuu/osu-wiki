@@ -29,12 +29,12 @@ The star rating ranges determines which web icon is going to be used on any give
 
 ### osu!
 
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") [Easy](/wiki/Easy)
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") [Normal](/wiki/Normal)
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Hard)
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Insane)
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Expert)
-- [Expert Plus](/wiki/Expert_Plus)
+- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") [Easy](/wiki/Difficulty/Easy)
+- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") [Normal](/wiki/Difficulty/Normal)
+- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Difficulty/Hard)
+- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Difficulty/Insane)
+- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Difficulty/Expert)
+- [Expert Plus](/wiki/Difficulty/Expert_Plus)
 ### osu!taiko
 
 - ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") [Kantan](/wiki/Kantan)
