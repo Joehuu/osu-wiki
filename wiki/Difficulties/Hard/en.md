@@ -36,6 +36,6 @@ An ideal setup for a Hard difficulty would be:
 -   Approach rate: 6+
 -   Overall Difficulty: 6+
 
-![Typical difficulty settings for Hard.](/wiki/Difficulties/Hard/Hardsetup.png "Typical difficulty settings for Hard.")
+![Typical difficulty settings for Hard.](Hardsetup.PNG "Typical difficulty settings for Hard.")
 
 These are just **ideas of how the difficulty settings will be like - set it to how you find fit!**
