@@ -12,12 +12,12 @@ The difficulty of a beatmap *describes* the level of skill needed to complete it
 
 From the [Ranking Criteria](/wiki/Ranking_Criteria), a star rating of:
 
-- 1.50 stars and below is Easy ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")
+- Below 1.50 stars is Easy ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon")
 - 1.51 - 2.25 stars is Normal ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon")
 - 2.26 - 3.75 stars is Hard ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon")
 - 3.76 - 5.25 stars is Insane ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon")
 - 5.26 - 6.75 stars is Expert ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon")
-- 6.76 stars and above is Expert+
+- 6.76+ stars is Expert+
 
 ### Web icons
 
