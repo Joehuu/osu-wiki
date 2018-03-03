@@ -34,8 +34,7 @@ The star rating ranges determines which web icon is going to be used on any give
 - ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Hard)
 - ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Insane)
 - ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Expert)
-- ![Expert Plus icon](/wiki/shared/diff/expertplus-s.png "Expert Plus icon") [Expert+](/wiki/Expert_Plus)
-
+- [Expert Plus](/wiki/Expert_Plus)
 ### osu!taiko
 
 - ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") [Kantan](/wiki/Kantan)
