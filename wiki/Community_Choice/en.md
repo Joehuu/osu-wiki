@@ -24,6 +24,7 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/59)
+- [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
 - [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
 
 ### osu!taiko
@@ -38,6 +39,7 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/60)
+- [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
 - [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
 
 ### osu!catch
@@ -52,6 +54,7 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/61)
+- [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
 - [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
 
 ### osu!mania
@@ -66,5 +69,6 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/62)
+- [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
 - [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
 
