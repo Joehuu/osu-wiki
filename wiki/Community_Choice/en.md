@@ -16,10 +16,10 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 #### 2017
 
-| Placing | 2017 Results |
-|---------|--------------|
-| ![#1][#1] | [ClariS - Hitorigoto -TV MIX- (Doormat)](https://osu.ppy.sh/beatmapsets/596704)           |
-| ![#2][#2] | [Agnete Kjolsrud - Get Jinxed (Tarrasky)](https://osu.ppy.sh/beatmapsets/361740)          |
+| Placing | Beatmap (Mapper) |
+|---------|------------------|
+| ![#1][#1] | [ClariS - Hitorigoto -TV MIX- (Doormat)](https://osu.ppy.sh/beatmapsets/596704) |
+| ![#2][#2] | [Agnete Kjolsrud - Get Jinxed (Tarrasky)](https://osu.ppy.sh/beatmapsets/361740) |
 | ![#3][#3] | [*namirin - Koi no Hime Hime Pettanko ([C u r i])](https://osu.ppy.sh/beatmapsets/485056) |
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
@@ -30,11 +30,11 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 #### 2017
 
-| Placing | 2017 Results |
-|---------|--------------|
+| Placing | Beatmap (Mapper) |
+|---------|------------------|
 | ![#1][#1] | [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (Backfire)](https://osu.ppy.sh/beatmapsets/663337) |
-| ![#2][#2] | [D(ABE3) - MANIERA (_yu68)](https://osu.ppy.sh/beatmapsets/400761)                                   |
-| ![#3][#3] | [Dunderpatrullen - We Are Number One (Remix) (Midnaait)](https://osu.ppy.sh/beatmapsets/547301)      |
+| ![#2][#2] | [D(ABE3) - MANIERA (_yu68)](https://osu.ppy.sh/beatmapsets/400761) |
+| ![#3][#3] | [Dunderpatrullen - We Are Number One (Remix) (Midnaait)](https://osu.ppy.sh/beatmapsets/547301) |
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/60)
@@ -44,10 +44,10 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 #### 2017
 
-| Placing | 2017 Results |
-|---------|--------------|
-| ![#1][#1] | [C-Show - On the FM (Ascendance)](https://osu.ppy.sh/beatmapsets/609679)         |
-| ![#2][#2] | [DJ Totoriott - Chronoxia (Kyuare)](https://osu.ppy.sh/beatmapsets/429184)       |
+| Placing | Beatmap (Mapper) |
+|---------|------------------|
+| ![#1][#1] | [C-Show - On the FM (Ascendance)](https://osu.ppy.sh/beatmapsets/609679) |
+| ![#2][#2] | [DJ Totoriott - Chronoxia (Kyuare)](https://osu.ppy.sh/beatmapsets/429184) |
 | ![#3][#3] | [Camellia - Towards The Horizon (Sinnoh)](https://osu.ppy.sh/beatmapsets/629384) |
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
@@ -58,11 +58,11 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 
 #### 2017
 
-| Placing | 2017 Results |
-|---------|--------------|
+| Placing | Beatmap (Mapper) |
+|---------|------------------|
 | ![#1][#1] | [Camellia - Exit This Earth's Atomosphere (Protastic101)](https://osu.ppy.sh/beatmapsets/575053) |
-| ![#2][#2] | [Dustvoxx - Trigger (Zekk Remix) (Wonki)](https://osu.ppy.sh/beatmapsets/555076)                 |
-| ![#3][#3] | [t+pazolite - Oshama Scramble! ([ A v a l o n ])](https://osu.ppy.sh/beatmapsets/511480)         |
+| ![#2][#2] | [Dustvoxx - Trigger (Zekk Remix) (Wonki)](https://osu.ppy.sh/beatmapsets/555076) |
+| ![#3][#3] | [t+pazolite - Oshama Scramble! ([ A v a l o n ])](https://osu.ppy.sh/beatmapsets/511480) |
 
 - [Top ](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/62)
