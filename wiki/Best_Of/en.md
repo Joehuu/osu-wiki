@@ -6,7 +6,7 @@
 
 _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
-## Main pages for each year of the "Best Of" series.
+## Index
 
 - [2009](./2009 "Best of 2009")
 - [2010](./2010 "Best of 2010")
