@@ -25,7 +25,7 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 - [Top 1301](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/59 "Community Choice 2017 (osu!)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
-- [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
+- [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
 
 ### osu!taiko
 
@@ -40,7 +40,7 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 - [Top 355](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/60 "Community Choice 2017 (osu!taiko)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
-- [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
+- [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
 
 ### osu!catch
 
@@ -55,7 +55,7 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 - [Top 102](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/61 "Community Choice 2017 (osu!catch)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
-- [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
+- [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
 
 ### osu!mania
 
@@ -70,5 +70,5 @@ _For 2016 and older years, see [Best Of series](/wiki/Best_Of)._
 - [Top 202](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 - [Votes](https://osu.ppy.sh/community/contests/62 "Community Choice 2017 (osu!mania)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
-- [News Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
+- [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
 
