@@ -34,7 +34,7 @@ The star rating ranges determines which web icon is going to be used on any give
 - ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Hard)
 - ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Insane)
 - ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Expert)
-- Expert Plus
+- ![Expert Plus icon](/wiki/shared/diff/expertplus-s.png "Expert Plus icon") [Expert+](/wiki/Expert Plus)
 
 ### osu!taiko
 
@@ -43,6 +43,7 @@ The star rating ranges determines which web icon is going to be used on any give
 - ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") [Muzukashii](/wiki/Muzukashii)
 - ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") [Oni](/wiki/Oni)
 - ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (sometimes called _Inner Oni_)
+- ![Expert Plus icon](/wiki/shared/diff/expertplus-t.png "Expert Plus icon") [Expert+](/wiki/Expert Plus)
 
 ### osu!catch
 
@@ -51,6 +52,7 @@ The star rating ranges determines which web icon is going to be used on any give
 - ![Platter icon](/wiki/shared/diff/hard-c.png "Platter icon") Platter
 - ![Rain icon](/wiki/shared/diff/insane-c.png "Rain icon") Rain
 - ![Overdose icon](/wiki/shared/diff/expert-c.png "Overdose icon") Overdose
+- ![Expert Plus icon](/wiki/shared/diff/expertplus-c.png "Expert Plus icon") [Expert+](/wiki/Expert Plus)
 
 ### osu!mania
 
@@ -59,3 +61,4 @@ The star rating ranges determines which web icon is going to be used on any give
 - ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") HD
 - ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") MX
 - ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") SC
+- ![Expert Plus icon](/wiki/shared/diff/expertplus-m.png "Expert Plus icon") [Expert+](/wiki/Expert Plus)
