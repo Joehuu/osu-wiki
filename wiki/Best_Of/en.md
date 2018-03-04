@@ -328,4 +328,4 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 _Main page: [Community Choice](wiki/Community_Choice)_
 
-It is now known as Community Choice. "Best of" was a bit off, since there are better beatmaps out there that weren't voted the "best."
+It is now known as Community Choice. "Best of" was a bit off because there were better beatmaps out there that weren't voted the "best."
