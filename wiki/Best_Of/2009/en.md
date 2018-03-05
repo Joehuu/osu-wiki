@@ -1,3 +1,7 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2009
 
 _Main page: [Best Of](/wiki/Best_Of "Best Of")_
@@ -12,9 +16,9 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/s/5381)|
-|2|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/s/6257)|
-|3|172| [Toyosaki Aki - Cagayake! GIRLS (TV Size) (DJPop)](https://osu.ppy.sh/s/6358)|
+|![1][#1]|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/s/5381)|
+|![2][#2]|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/s/6257)|
+|![3][#3]|172| [Toyosaki Aki - Cagayake! GIRLS (TV Size) (DJPop)](https://osu.ppy.sh/s/6358)|
 |4|148| [Hanataba - Night of Knights (v2b)](https://osu.ppy.sh/s/5445)|
 |5|140| [Masayoshi Minoshima ft. nomico - Bad Apple!! (Ephemeral)](https://osu.ppy.sh/s/10435)|
 |6|131| [nomico - Bad Apple!! (James)](https://osu.ppy.sh/s/6252)|
