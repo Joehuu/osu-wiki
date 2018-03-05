@@ -92,7 +92,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |72|31|[ClariS - Kimi to Futari (osuplayer111)](http://osu.ppy.sh/s/27527/ "ClariS - Kimi to Futari (osuplayer111)")|
 |73|31|[Megpoid GUMI - Chocolate (val0108)](http://osu.ppy.sh/s/26652/ "Megpoid GUMI - Chocolate (val0108)")|
 |74|31|[Hatsune Miku - Kusaregedou to Chocolate (val0108)](http://osu.ppy.sh/s/25248/ "Hatsune Miku - Kusaregedou to Chocolate (val0108)")|
-|75|30|[wa. remixed celas - Suishou-Sekai /~Fracture/~ (soulfear)](http://osu.ppy.sh/s/28984/ "wa. remixed celas - Suishou-Sekai /~Fracture/~ (soulfear)")|
+|75|30|[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear)](http://osu.ppy.sh/s/28984/ "wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear)")|
 |76|30|[DECO*27 feat. marina - Aimai Elegy (Mafiamaster)](http://osu.ppy.sh/s/27306/ "DECO*27 feat. marina - Aimai Elegy (Mafiamaster)")|
 |77|30|[DJ Okawari - Flower Dance (spboxer3)](http://osu.ppy.sh/s/23207/ "DJ Okawari - Flower Dance (spboxer3)")|
 |78|30|[seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i)](http://osu.ppy.sh/s/32523/ "seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i)")|
@@ -100,7 +100,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |80|29|[Hatsune Miku - Senkouhanabi Aika (val0108)](http://osu.ppy.sh/s/33556/ "Hatsune Miku - Senkouhanabi Aika (val0108)")|
 |81|29|[3L - Come Back To Me (orioncomet)](http://osu.ppy.sh/s/24201/ "3L - Come Back To Me (orioncomet)")|
 |82|29|[ALiCE'S EMOTiON - Voice (banvi)](http://osu.ppy.sh/s/31904/ "ALiCE'S EMOTiON - Voice (banvi)")|
-|83|28|[Ano Hana Cast - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.) (TV Size) (Colin Hou)](http://osu.ppy.sh/s/29489/ "Ano Hana Cast - secret base ~Kimi ga Kureta Mono~ (10 years after Ver.) (TV Size) (Colin Hou)")|
+|83|28|[Ano Hana Cast - secret base \~Kimi ga Kureta Mono\~ (10 years after Ver.) (TV Size) (Colin Hou)](http://osu.ppy.sh/s/29489/ "Ano Hana Cast - secret base \~Kimi ga Kureta Mono\~ (10 years after Ver.) (TV Size) (Colin Hou)")|
 |84|28|[RO-KYU-BU! - SHOOT! (TV Size) (KanaRin)](http://osu.ppy.sh/s/32047/ "RO-KYU-BU! - SHOOT! (TV Size) (KanaRin)")|
 |85|28|[Megurine Luka - Leia (Mafiamaster)](http://osu.ppy.sh/s/29064/ "Megurine Luka - Leia (Mafiamaster)")|
 |86|28|[Two Door Cinema Club - What You Know (Krisom)](http://osu.ppy.sh/s/31517/ "Two Door Cinema Club - What You Know (Krisom)")|
