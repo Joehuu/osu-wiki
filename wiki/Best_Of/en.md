@@ -6,22 +6,17 @@
 
 _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
-## Index
+## Description
 
-- [2009](./2009 "Best of 2009")
-- [2010](./2010 "Best of 2010")
-- [2011](./2011 "Best of 2011")
-- [2012](./2012 "Best of 2012")
-- [2013](./2013 "Best of 2013")
-- [2014](./2014 "Best of 2014")
-- [2015](./2015 "Best of 2015")
-- [2016](./2016 "Best of 2016")
+Every December, you can vote for the best beatmap.
 
 ## Top 3 (All Modes)
 
 ### osu!standard
 
 #### 2009
+
+_Main page: [Best of 2009](./2009 "Best of 2009")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -39,6 +34,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2010
 
+_Main page: [Best of 2010](./2010 "Best of 2010")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/s/19789) |
@@ -55,6 +52,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2011
 
+_Main page: [Best of 2011](./2011 "Best of 2011")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [DJ Fresh - Gold Dust (galvenize)](https://osu.ppy.sh/s/28107) |
@@ -69,6 +68,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 - [Results](https://osu.ppy.sh/forum/t/71477)
 
 #### 2012
+
+_Main page: [Best of 2012](./2012 "Best of 2012")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -86,6 +87,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2013
 
+_Main page: [Best of 2013](./2013 "Best of 2013")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Infected Mushroom - The Pretender (RLC)](https://osu.ppy.sh/s/79498) |
@@ -102,6 +105,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2014
 
+_Main page: [Best of 2014](./2014 "Best of 2014")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Aoi Eir - IGNITE (TV size ver.) (Guy)](https://osu.ppy.sh/s/190222) |
@@ -117,6 +122,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2015
 
+_Main page: [Best of 2015](./2015 "Best of 2015")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Panda Eyes &amp; Teminite - Highscore (Fort)](https://osu.ppy.sh/s/332532) |
@@ -131,6 +138,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2016
 
+_Main page: [Best of 2016](./2016 "Best of 2016")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [9mm Parabellum Bullet - Inferno by Monstrata](https://osu.ppy.sh/s/482090) |
@@ -144,6 +153,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 ### osu!taiko
 
 #### 2013
+
+_Main page: [Best of 2013](./2013 "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -161,6 +172,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2014
 
+_Main page: [Best of 2014](./2014 "Best of 2014")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
@@ -177,6 +190,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2015
 
+_Main page: [Best of 2015](./2015 "Best of 2015")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/s/275331) |
@@ -192,6 +207,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2016
 
+_Main page: [Best of 2016](./2016 "Best of 2016")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [toby fox - Spider Dance by OzzyOzrock](https://osu.ppy.sh/s/373414) |
@@ -205,6 +222,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 ### osu!catch
 
 #### 2013
+
+_Main page: [Best of 2013](./2013 "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -222,6 +241,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2014
 
+_Main page: [Best of 2014](./2014 "Best of 2014")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
@@ -238,6 +259,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2015
 
+_Main page: [Best of 2015](./2015 "Best of 2015")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Halozy - Genryuu Kaiko (CLSW)](https://osu.ppy.sh/s/253969) |
@@ -253,6 +276,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2016
 
+_Main page: [Best of 2016](./2016 "Best of 2016")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [saradisk - 176 - ikazuchi by Ascendance](https://osu.ppy.sh/s/424208) |
@@ -266,6 +291,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 ### osu!mania
 
 #### 2013
+
+_Main page: [Best of 2013](./2013 "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -283,6 +310,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2014
 
+_Main page: [Best of 2014](./2014 "Best of 2014")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
@@ -299,6 +328,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 #### 2015
 
+_Main page: [Best of 2015](./2015 "Best of 2015")_
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [D(ABE3) - MANIERA (iJinjin)](https://osu.ppy.sh/s/272871) |
@@ -313,6 +344,8 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 - [Results #2](https://news.ppy.sh/post/138781453998/best-of-2015-results)
 
 #### 2016
+
+_Main page: [Best of 2016](./2016 "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
