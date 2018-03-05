@@ -1422,7 +1422,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |Placing|Votes|Beatmap|
 |:-----:|:---:|:------|
 |![1][#1]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
-|![2[#2]|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
+|![2][#2]|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
 |![3][#3]|633|[Warak - REANIMATE (Amamiya Yuko)](http://osu.ppy.sh/s/209103/ "Warak - REANIMATE (Amamiya Yuko)")|
 |4|302|[u's - Snow halation (TV Size) (Xinely)](http://osu.ppy.sh/s/183161/ "u's - Snow halation (TV Size) (Xinely)")|
 |5|270|[An - Encryption (HelloSCV)](http://osu.ppy.sh/s/96368/ "An - Encryption (HelloSCV)")|
@@ -1437,8 +1437,8 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |Placing|Votes|Beatmap|
 |:-----:|:---:|:------|
 |![1][#1]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
-|[2][#2]|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
-|[3][#3]|605|[Yuyoyuppe - AiAe (Fullerene-)](http://osu.ppy.sh/s/174381/ "Yuyoyuppe - AiAe (Fullerene-)")|
+|![2][#2]|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
+|![3][#3]|605|[Yuyoyuppe - AiAe (Fullerene-)](http://osu.ppy.sh/s/174381/ "Yuyoyuppe - AiAe (Fullerene-)")|
 |4|584|[AAA - Wake up! (Anime ver.) (Atsuro)](http://osu.ppy.sh/s/159068/ "AAA - Wake up! (Anime ver.) (Atsuro)")|
 |5|575|[BABYMETAL - MEGITSUNE (arcwinolivirus)](http://osu.ppy.sh/s/167880/ "BABYMETAL - MEGITSUNE (arcwinolivirus)")|
 |6|497|[Camellia - Bangin' Burst (Spy)](http://osu.ppy.sh/s/140097/ "Camellia - Bangin' Burst (Spy)")|
