@@ -28,7 +28,7 @@ Every December, you can vote for the beatmap you like the best. You can vote up 
 _Main page: [Best of 2009](./2009/#osu!standard "Best of 2009")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/s/5381) |
 | ![#2][#2] | [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/s/6257) |
 | ![#3][#3] | [Toyosaki Aki - Cagayake! GIRLS (TV Size) (DJPop)](https://osu.ppy.sh/s/6358) |
@@ -46,7 +46,7 @@ _Main page: [Best of 2009](./2009/#osu!standard "Best of 2009")_
 _Main page: [Best of 2010](./2010/#osu!standard "Best of 2010")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Hatsune Miku &amp; Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/s/19789) |
 | ![#2][#2] | [07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/s/14994), [Baracuda - La Di Da (Nightcore Mix) (ztrot)](https://osu.ppy.sh/s/17852) |
 | ![#3][#3] | [HTT - NO, Thank You! (Full Ver.) (S i R i R u)](https://osu.ppy.sh/s/18841) |
@@ -64,7 +64,7 @@ _Main page: [Best of 2010](./2010/#osu!standard "Best of 2010")_
 _Main page: [Best of 2011](./2011/#osu!standard "Best of 2011")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [DJ Fresh - Gold Dust (galvenize)](https://osu.ppy.sh/s/28107) |
 | ![#2][#2] | [Bomfunk MC's - Freestyler (Lesjuh)](https://osu.ppy.sh/s/35629) |
 | ![#3][#3] | [07th Expansion - Final Answer (gowww)](https://osu.ppy.sh/s/26226) |
@@ -81,7 +81,7 @@ _Main page: [Best of 2011](./2011/#osu!standard "Best of 2011")_
 _Main page: [Best of 2012](./2012/#osu!standard "Best of 2012")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [PSY - GANGNAM STYLE (yeahyeahyeahhh)](https://osu.ppy.sh/s/55799) |
 | ![#2][#2] | [xi - FREEDOM DiVE (Nakagawa-Kanon)](https://osu.ppy.sh/s/39804) |
 | ![#3][#3] | [Lily - Scarlet Rose (val0108)](https://osu.ppy.sh/s/41686), [Hatsune Miku - Mythologia's End (val0108)](https://osu.ppy.sh/s/48979) |
@@ -99,7 +99,7 @@ _Main page: [Best of 2012](./2012/#osu!standard "Best of 2012")_
 _Main page: [Best of 2013](./2013/#osu!standard "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Infected Mushroom - The Pretender (RLC)](https://osu.ppy.sh/s/79498) |
 | ![#2][#2] | [Yousei Teikoku - The Creator (meiikyuu)](https://osu.ppy.sh/s/41242) |
 | ![#3][#3] | [An - artcore JINJA (Flower)](https://osu.ppy.sh/s/114987)|
@@ -117,7 +117,7 @@ _Main page: [Best of 2013](./2013/#osu!standard "Best of 2013")_
 _Main page: [Best of 2014](./2014/#osu!standard "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Aoi Eir - IGNITE (TV size ver.) (Guy)](https://osu.ppy.sh/s/190222) |
 | ![#2][#2] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
 | ![#3][#3] | [cYsmix feat. Emmy - Tear Rain (jonathanlfj)](https://osu.ppy.sh/s/140662) |
@@ -134,7 +134,7 @@ _Main page: [Best of 2014](./2014/#osu!standard "Best of 2014")_
 _Main page: [Best of 2015](./2015/#osu!standard "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Panda Eyes &amp; Teminite - Highscore (Fort)](https://osu.ppy.sh/s/332532) |
 | ![#2][#2] | [Konuko - Toumei Elegy (Awaken)](https://osu.ppy.sh/s/219380) |
 | ![#3][#3] | [gmtn. (witch's slave) - furioso melodia (Alumetorz)](https://osu.ppy.sh/s/280107) |
@@ -150,7 +150,7 @@ _Main page: [Best of 2015](./2015/#osu!standard "Best of 2015")_
 _Main page: [Best of 2016](./2016/#osu!standard "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [9mm Parabellum Bullet - Inferno by Monstrata](https://osu.ppy.sh/s/482090) |
 | ![#2][#2] | [Feint - Tower Of Heaven (You Are Slaves) by eLy](https://osu.ppy.sh/s/128931) |
 | ![#3][#3] | [RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata](https://osu.ppy.sh/s/513590) |
@@ -166,7 +166,7 @@ _Main page: [Best of 2016](./2016/#osu!standard "Best of 2016")_
 _Main page: [Best of 2013](./2013/#osu!taiko "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](https://osu.ppy.sh/s/87630) |
 | ![#2][#2] | [Wotamin - Gigantic O.T.N (Star Stream)](https://osu.ppy.sh/s/80214) |
 | ![#3][#3] | [FujuniseikouyuuP - FREEDMAN (val0108)](https://osu.ppy.sh/s/108529), [LeaF - Calamity Fortune (Flower)](https://osu.ppy.sh/s/96103) |
@@ -184,7 +184,7 @@ _Main page: [Best of 2013](./2013/#osu!taiko "Best of 2013")_
 _Main page: [Best of 2014](./2014/#osu!taiko "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
 | ![#2][#2] | [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Midnaait)](https://osu.ppy.sh/s/58951) |
 | ![#3][#3] | [Maffalda - pensamento tipico de esquerda caviar (OnosakiHito)](https://osu.ppy.sh/s/175036) |
@@ -202,7 +202,7 @@ _Main page: [Best of 2014](./2014/#osu!taiko "Best of 2014")_
 _Main page: [Best of 2015](./2015/#osu!taiko "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/s/275331) |
 | ![#2][#2] | [joeyclassic - seal.mp4 (IntelliTroodon)](https://osu.ppy.sh/s/329268) |
 | ![#3][#3] | [CyoucyoP feat.Hatsune Miku - End of the World (TKS)](https://osu.ppy.sh/s/215476) |
@@ -219,7 +219,7 @@ _Main page: [Best of 2015](./2015/#osu!taiko "Best of 2015")_
 _Main page: [Best of 2016](./2016/#osu!taiko "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [toby fox - Spider Dance by OzzyOzrock](https://osu.ppy.sh/s/373414) |
 | ![#2][#2] | [toby fox - Battle Against a True Hero by S a n d](https://osu.ppy.sh/s/371182) |
 | ![#3][#3] | [AAAA Chazuke - Hop Step Adventure* by TKS](https://osu.ppy.sh/s/466471) |
@@ -235,7 +235,7 @@ _Main page: [Best of 2016](./2016/#osu!taiko "Best of 2016")_
 _Main page: [Best of 2013](./2013/#osu!catch "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [ONE OK ROCK - Rock, Scissors, Paper (Haya)](https://osu.ppy.sh/s/82282) |
 | ![#2][#2] | [DECO*27 feat. marina - Aimai Elegy (val0108)](https://osu.ppy.sh/s/43248) |
 | ![#3][#3] | [LeaF - MEPHISTO (Alumetorz)](https://osu.ppy.sh/s/106212) |
@@ -253,7 +253,7 @@ _Main page: [Best of 2013](./2013/#osu!catch "Best of 2013")_
 _Main page: [Best of 2014](./2014/#osu!catch "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
 | ![#2][#2] | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](https://osu.ppy.sh/s/157896) |
 | ![#3][#3] | [Warak - REANIMATE (Spectator)](https://osu.ppy.sh/s/209103) |
@@ -271,7 +271,7 @@ _Main page: [Best of 2014](./2014/#osu!catch "Best of 2014")_
 _Main page: [Best of 2015](./2015/#osu!catch "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Halozy - Genryuu Kaiko (CLSW)](https://osu.ppy.sh/s/253969) |
 | ![#2][#2] | [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)](https://osu.ppy.sh/s/287873) |
 | ![#3][#3] | [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)](https://osu.ppy.sh/s/139525) |
@@ -288,7 +288,7 @@ _Main page: [Best of 2015](./2015/#osu!catch "Best of 2015")_
 _Main page: [Best of 2016](./2016/#osu!catch "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [saradisk - 176 - ikazuchi by Ascendance](https://osu.ppy.sh/s/424208) |
 | ![#2][#2] | [Memme - Acid Burst by Priti](https://osu.ppy.sh/s/302535) |
 | ![#3][#3] | [Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator](https://osu.ppy.sh/s/228539) |
@@ -304,7 +304,7 @@ _Main page: [Best of 2016](./2016/#osu!catch "Best of 2016")_
 _Main page: [Best of 2013](./2013/#osu!mania "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Wotamin - Gigantic O.T.N (Star Stream)](https://osu.ppy.sh/s/80214) |
 | ![#2][#2] | [LeaF - MEPHISTO (Alumetorz)](https://osu.ppy.sh/s/106212) |
 | ![#3][#3] | [Igorrr - Unpleasant Sonata (Sieg)](https://osu.ppy.sh/s/90385) |
@@ -322,7 +322,7 @@ _Main page: [Best of 2013](./2013/#osu!mania "Best of 2013")_
 _Main page: [Best of 2014](./2014/#osu!mania "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/s/134151) |
 | ![#2][#2] | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](https://osu.ppy.sh/s/157896) |
 | ![#3][#3] | [Yuyoyuppe - AiAe (Fullerene-)](https://osu.ppy.sh/s/174381) |
@@ -340,7 +340,7 @@ _Main page: [Best of 2014](./2014/#osu!mania "Best of 2014")_
 _Main page: [Best of 2015](./2015/#osu!mania "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [D(ABE3) - MANIERA (iJinjin)](https://osu.ppy.sh/s/272871) |
 | ![#2][#2] | [BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)](https://osu.ppy.sh/s/200552) |
 | ![#3][#3] | [AKINO from bless4 - MIIRO ([ S a k u r a ])](https://osu.ppy.sh/s/288794) |
@@ -357,7 +357,7 @@ _Main page: [Best of 2015](./2015/#osu!mania "Best of 2015")_
 _Main page: [Best of 2016](./2016/#osu!mania "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
-|---------|------------------|
+|:-------:|:-----------------|
 | ![#1][#1] | [Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken](https://osu.ppy.sh/s/349208) |
 | ![#2][#2] | [t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan](https://osu.ppy.sh/s/310607) |
 | ![#3][#3] | [t+pazolite - CENSORED!! by Kuo Kyoka](https://osu.ppy.sh/s/476221) |
