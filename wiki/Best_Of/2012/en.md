@@ -8,7 +8,6 @@ _Part of [Best Of series](/wiki/Best_Of)._
 
 ## General
 
-- [Full list of 2012 beatmaps (vote screen)](http://osu.ppy.sh/p/bestof2012) [Legacy link. Content has been removed]
 - [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=BEST2012) (First 31 songs. 21 ranked, 10 approved)
 
@@ -16,9 +15,9 @@ _Part of [Best Of series](/wiki/Best_Of)._
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|740|[PSY - GANGNAM STYLE (yeahyeahyeahhh)](http://osu.ppy.sh/s/55799 "PSY - GANGNAM STYLE (yeahyeahyeahhh)")|
-|2|445|[xi - FREEDOM DiVE (Nakagawa-Kanon)](http://osu.ppy.sh/s/39804 "xi - FREEDOM DiVE (Nakagawa-Kanon)")|
-|3|374|[Lily - Scarlet Rose (val0108)](http://osu.ppy.sh/s/41686 "Lily - Scarlet Rose (val0108)")|
+|![1][#1]|740|[PSY - GANGNAM STYLE (yeahyeahyeahhh)](http://osu.ppy.sh/s/55799 "PSY - GANGNAM STYLE (yeahyeahyeahhh)")|
+|![2][#2]|445|[xi - FREEDOM DiVE (Nakagawa-Kanon)](http://osu.ppy.sh/s/39804 "xi - FREEDOM DiVE (Nakagawa-Kanon)")|
+|![3][#3]|374|[Lily - Scarlet Rose (val0108)](http://osu.ppy.sh/s/41686 "Lily - Scarlet Rose (val0108)")|
 |4|374|[Hatsune Miku - Mythologia's End (val0108)](http://osu.ppy.sh/s/48979 "Hatsune Miku - Mythologia's End (val0108)")|
 |5|363|[ALiCE'S EMOTiON - Mami Mami Zone (Mixagji)](http://osu.ppy.sh/s/43728 "ALiCE'S EMOTiON - Mami Mami Zone (Mixagji)")|
 |6|352|[The Quick Brown Fox - The Big Black (Blue Dragon)](http://osu.ppy.sh/s/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)")|
