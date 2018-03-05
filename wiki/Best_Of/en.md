@@ -4,7 +4,7 @@
 
 # Best Of series
 
-_For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
+_For 2017 and onwards, see the [Community Choice series](/wiki/Community_Choice)._
 
 ## Description
 
