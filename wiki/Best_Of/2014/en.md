@@ -12,8 +12,8 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 ## osu!standard
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
 |![1][#1]|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/s/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
 |![2][#2]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |![3][#3]|2122|[cYsmix feat. Emmy - Tear Rain (jonathanlfj)](http://osu.ppy.sh/s/140662/ "cYsmix feat. Emmy - Tear Rain (jonathanlfj)")|
@@ -1404,8 +1404,8 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 ## osu!taiko
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
 |1|3093|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|2007|[UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/s/58951/ "UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)")|
 |3|1910|[Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)](http://osu.ppy.sh/s/175036/ "Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)")|
@@ -1419,8 +1419,8 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 ## osu!catch
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
 |1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
 |3|633|[Warak - REANIMATE (Amamiya Yuko)](http://osu.ppy.sh/s/209103/ "Warak - REANIMATE (Amamiya Yuko)")|
@@ -1434,8 +1434,8 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 ## osu!mania
 
-|No.|Votes|Beatmap|
-|:---:|:---:|:---|
+|Placing|Votes|Beatmap|
+|:-----:|:---:|:------|
 |1|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
 |2|930|[Meg & Dia - Monster (DotEXE Remix) (nold_1702)](http://osu.ppy.sh/s/157896/ "Meg & Dia - Monster (DotEXE Remix) (nold_1702)")|
 |3|605|[Yuyoyuppe - AiAe (Fullerene-)](http://osu.ppy.sh/s/174381/ "Yuyoyuppe - AiAe (Fullerene-)")|
