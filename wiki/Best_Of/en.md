@@ -8,7 +8,18 @@ _For 2017 and onwards, see [Community Choice series](/wiki/Community_Choice)._
 
 ## Description
 
-Every December, you can vote for the best beatmap.
+Every December, you can vote for the beatmap you think is the best.
+
+## Index
+
+- [2009](./2009 "Best of 2009")
+- [2010](./2010 "Best of 2010")
+- [2011](./2011 "Best of 2011")
+- [2012](./2012 "Best of 2012")
+- [2013](./2013 "Best of 2013")
+- [2014](./2014 "Best of 2014")
+- [2015](./2015 "Best of 2015")
+- [2016](./2016 "Best of 2016")
 
 ## Top 3 (All Modes)
 
