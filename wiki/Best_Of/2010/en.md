@@ -4,7 +4,9 @@
 
 # 2010
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of [Best Of series](/wiki/Best_Of)._
+
+## General
 
 - [Results (table text file)](https://puu.sh/Fju)
   - [Forum](https://osu.ppy.sh/forum/t/43834)
