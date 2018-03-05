@@ -1,3 +1,7 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2014
 
 _Part of the [Best Of](/wiki/Best_Of) series._
@@ -10,9 +14,9 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 |No.|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/s/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
-|2|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
-|3|2122|[cYsmix feat. Emmy - Tear Rain (jonathanlfj)](http://osu.ppy.sh/s/140662/ "cYsmix feat. Emmy - Tear Rain (jonathanlfj)")|
+|![1][#1]|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/s/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
+|![2][#2]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/s/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
+|![3][#3]|2122|[cYsmix feat. Emmy - Tear Rain (jonathanlfj)](http://osu.ppy.sh/s/140662/ "cYsmix feat. Emmy - Tear Rain (jonathanlfj)")|
 |4|2007|[UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)](http://osu.ppy.sh/s/58951/ "UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie)")|
 |5|1910|[Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)](http://osu.ppy.sh/s/175036/ "Maffalda - pensamento tipico de esquerda caviar (Blue Dragon)")|
 |6|1766|[Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr)](http://osu.ppy.sh/s/176832/ "Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr)")|
