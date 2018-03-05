@@ -27,7 +27,7 @@ Every December, you can vote for the beatmap you think is the best.
 
 #### 2009
 
-_Main page: [Best of 2009](./2009 "Best of 2009")_
+_Main page: [Best of 2009](./2009/#osu!standard "Best of 2009")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -45,7 +45,7 @@ _Main page: [Best of 2009](./2009 "Best of 2009")_
 
 #### 2010
 
-_Main page: [Best of 2010](./2010 "Best of 2010")_
+_Main page: [Best of 2010](./2010/#osu!standard "Best of 2010")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -63,7 +63,7 @@ _Main page: [Best of 2010](./2010 "Best of 2010")_
 
 #### 2011
 
-_Main page: [Best of 2011](./2011 "Best of 2011")_
+_Main page: [Best of 2011](./2011/#osu!standard "Best of 2011")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -80,7 +80,7 @@ _Main page: [Best of 2011](./2011 "Best of 2011")_
 
 #### 2012
 
-_Main page: [Best of 2012](./2012 "Best of 2012")_
+_Main page: [Best of 2012](./2012/#osu!standard "Best of 2012")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -98,7 +98,7 @@ _Main page: [Best of 2012](./2012 "Best of 2012")_
 
 #### 2013
 
-_Main page: [Best of 2013](./2013 "Best of 2013")_
+_Main page: [Best of 2013](./2013/#osu!standard "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -116,7 +116,7 @@ _Main page: [Best of 2013](./2013 "Best of 2013")_
 
 #### 2014
 
-_Main page: [Best of 2014](./2014 "Best of 2014")_
+_Main page: [Best of 2014](./2014/#osu!standard "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -133,7 +133,7 @@ _Main page: [Best of 2014](./2014 "Best of 2014")_
 
 #### 2015
 
-_Main page: [Best of 2015](./2015 "Best of 2015")_
+_Main page: [Best of 2015](./2015/#osu!standard "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -149,7 +149,7 @@ _Main page: [Best of 2015](./2015 "Best of 2015")_
 
 #### 2016
 
-_Main page: [Best of 2016](./2016 "Best of 2016")_
+_Main page: [Best of 2016](./2016/#osu!standard "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -165,7 +165,7 @@ _Main page: [Best of 2016](./2016 "Best of 2016")_
 
 #### 2013
 
-_Main page: [Best of 2013](./2013 "Best of 2013")_
+_Main page: [Best of 2013](./2013/#osu!taiko "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -183,7 +183,7 @@ _Main page: [Best of 2013](./2013 "Best of 2013")_
 
 #### 2014
 
-_Main page: [Best of 2014](./2014 "Best of 2014")_
+_Main page: [Best of 2014](./2014/#osu!taiko "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -201,7 +201,7 @@ _Main page: [Best of 2014](./2014 "Best of 2014")_
 
 #### 2015
 
-_Main page: [Best of 2015](./2015 "Best of 2015")_
+_Main page: [Best of 2015](./2015/#osu!taiko "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -218,7 +218,7 @@ _Main page: [Best of 2015](./2015 "Best of 2015")_
 
 #### 2016
 
-_Main page: [Best of 2016](./2016 "Best of 2016")_
+_Main page: [Best of 2016](./2016/#osu!taiko "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -234,7 +234,7 @@ _Main page: [Best of 2016](./2016 "Best of 2016")_
 
 #### 2013
 
-_Main page: [Best of 2013](./2013 "Best of 2013")_
+_Main page: [Best of 2013](./2013/#osu!catch "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -252,7 +252,7 @@ _Main page: [Best of 2013](./2013 "Best of 2013")_
 
 #### 2014
 
-_Main page: [Best of 2014](./2014 "Best of 2014")_
+_Main page: [Best of 2014](./2014/#osu!catch "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -270,7 +270,7 @@ _Main page: [Best of 2014](./2014 "Best of 2014")_
 
 #### 2015
 
-_Main page: [Best of 2015](./2015 "Best of 2015")_
+_Main page: [Best of 2015](./2015/#osu!catch "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -287,7 +287,7 @@ _Main page: [Best of 2015](./2015 "Best of 2015")_
 
 #### 2016
 
-_Main page: [Best of 2016](./2016 "Best of 2016")_
+_Main page: [Best of 2016](./2016/#osu!catch "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -303,7 +303,7 @@ _Main page: [Best of 2016](./2016 "Best of 2016")_
 
 #### 2013
 
-_Main page: [Best of 2013](./2013 "Best of 2013")_
+_Main page: [Best of 2013](./2013/#osu!mania "Best of 2013")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -321,7 +321,7 @@ _Main page: [Best of 2013](./2013 "Best of 2013")_
 
 #### 2014
 
-_Main page: [Best of 2014](./2014 "Best of 2014")_
+_Main page: [Best of 2014](./2014/#osu!mania "Best of 2014")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -339,7 +339,7 @@ _Main page: [Best of 2014](./2014 "Best of 2014")_
 
 #### 2015
 
-_Main page: [Best of 2015](./2015 "Best of 2015")_
+_Main page: [Best of 2015](./2015/#osu!mania "Best of 2015")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -356,7 +356,7 @@ _Main page: [Best of 2015](./2015 "Best of 2015")_
 
 #### 2016
 
-_Main page: [Best of 2016](./2016 "Best of 2016")_
+_Main page: [Best of 2016](./2016/#osu!mania "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
