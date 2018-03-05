@@ -16,7 +16,7 @@ _For 2016 and older years, see the [Best Of series](/wiki/Best_Of)._
 
 #### 2017
 
-_Main page: [Community Choice 2017](./2017/#osu!standard)
+_Main page: [Community Choice 2017](./2017/#osu!standard)_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -33,7 +33,7 @@ _Main page: [Community Choice 2017](./2017/#osu!standard)
 
 #### 2017
 
-_Main page: [Community Choice 2017](./2017/#osu!taiko)
+_Main page: [Community Choice 2017](./2017/#osu!taiko)_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -50,7 +50,7 @@ _Main page: [Community Choice 2017](./2017/#osu!taiko)
 
 #### 2017
 
-_Main page: [Community Choice 2017](./2017/#osu!catch)
+_Main page: [Community Choice 2017](./2017/#osu!catch)_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -67,7 +67,7 @@ _Main page: [Community Choice 2017](./2017/#osu!catch)
 
 #### 2017
 
-_Main page: [Community Choice 2017](./2017/#osu!mania)
+_Main page: [Community Choice 2017](./2017/#osu!mania)_
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
