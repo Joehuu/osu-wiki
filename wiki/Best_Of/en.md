@@ -8,7 +8,7 @@ _For 2017 and onwards, see the [Community Choice series](/wiki/Community_Choice)
 
 ## Description
 
-Every December, you can vote for the beatmap you think is the best.
+Every December, you can vote for the beatmap you think is the best. Some years have "weighted score", which determines the placing, not by the amount of votes. Factors of weighted score include: pp, play count, and difficulty of the beatmap. After 2016, the series changed its name to "Community Choice."
 
 ## Index
 
