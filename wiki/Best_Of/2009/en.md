@@ -4,9 +4,9 @@
 
 # 2009
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of [Best Of series](/wiki/Best_Of)._
 
-![Best of 2009 results announced by peppy](2009results.png "Best of 2009 results announced by peppy")
+## General
 
 - [Results](https://osu.ppy.sh/forum/t/22162)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2009)
