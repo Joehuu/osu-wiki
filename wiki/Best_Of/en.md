@@ -6,7 +6,7 @@
 
 _For 2017 and onwards, see the [Community Choice series](/wiki/Community_Choice)._
 
-Every December, you can vote for the beatmap you think is the best. Some years have "weighted score", which determines the placing, not by the amount of votes. Factors of weighted score include: pp, play count, and difficulty of the beatmap. After 2016, the series changed its name to "Community Choice."
+Every December, you can vote for the beatmap you like the best. You can vote up to 10 beatmaps! Some years have "weighted score", which determines the placing, not by the amount of votes. Factors of weighted score include: pp, play count, and difficulty of the beatmap. After 2016, the series changed its name to "Community Choice."
 
 ## Index
 
@@ -370,4 +370,4 @@ _Main page: [Best of 2016](./2016/#osu!mania "Best of 2016")_
 
 _Main page: [Community Choice](wiki/Community_Choice)_
 
-It is now known as Community Choice. "Best of" was a bit off because there were better beatmaps out there that weren't voted the "best."
+It is now known as Community Choice. The title "Best of" was a bit off because there were better beatmaps out there that weren't voted the "best".
