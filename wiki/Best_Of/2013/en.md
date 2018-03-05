@@ -1,6 +1,10 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2013
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of [Best Of series](/wiki/Best_Of)._
 
 ## General
 
@@ -14,9 +18,9 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|668|[Infected Mushroom - The Pretender (RLC)](http://osu.ppy.sh/s/79498/ "Infected Mushroom - The Pretender (RLC)")|
-|2|403|[Yousei Teikoku - The Creator (meiikyuu)](http://osu.ppy.sh/s/41242/ "Yousei Teikoku - The Creator (meiikyuu)")|
-|3|402|[An - artcore JINJA (Flower)](http://osu.ppy.sh/s/114987/ "An - artcore JINJA (Flower)")|
+|![1][#1]|668|[Infected Mushroom - The Pretender (RLC)](http://osu.ppy.sh/s/79498/ "Infected Mushroom - The Pretender (RLC)")|
+|!2][#2]|403|[Yousei Teikoku - The Creator (meiikyuu)](http://osu.ppy.sh/s/41242/ "Yousei Teikoku - The Creator (meiikyuu)")|
+|!3][#3]|402|[An - artcore JINJA (Flower)](http://osu.ppy.sh/s/114987/ "An - artcore JINJA (Flower)")|
 |4|358|[Linked Horizon - Guren no Yumiya (TV Size) (Kuria)](http://osu.ppy.sh/s/87630/ "Linked Horizon - Guren no Yumiya (TV Size) (Kuria)")|
 |5|355|[Wotamin - Gigantic O.T.N (Star Stream)](http://osu.ppy.sh/s/80214/ "Wotamin - Gigantic O.T.N (Star Stream)")|
 |6|350|[FujuniseikouyuuP - FREEDMAN (val0108)](http://osu.ppy.sh/s/108529/ "FujuniseikouyuuP - FREEDMAN (val0108)")|
