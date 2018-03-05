@@ -4,7 +4,7 @@
 
 # 2013
 
-_Part of [Best Of series](/wiki/Best_Of)._
+_Part of the [Best Of](/wiki/Best_Of) series._
 
 ## General
 
