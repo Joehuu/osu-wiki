@@ -16,6 +16,8 @@ _For 2016 and older years, see the [Best Of series](/wiki/Best_Of)._
 
 #### 2017
 
+_Main page: [Community Choice 2017](./2017/#osu!standard)
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [ClariS - Hitorigoto -TV MIX- (Doormat)](https://osu.ppy.sh/beatmapsets/596704) |
@@ -30,6 +32,8 @@ _For 2016 and older years, see the [Best Of series](/wiki/Best_Of)._
 ### osu!taiko
 
 #### 2017
+
+_Main page: [Community Choice 2017](./2017/#osu!taiko)
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
@@ -46,6 +50,8 @@ _For 2016 and older years, see the [Best Of series](/wiki/Best_Of)._
 
 #### 2017
 
+_Main page: [Community Choice 2017](./2017/#osu!catch)
+
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
 | ![#1][#1] | [C-Show - On the FM (Ascendance)](https://osu.ppy.sh/beatmapsets/609679) |
@@ -60,6 +66,8 @@ _For 2016 and older years, see the [Best Of series](/wiki/Best_Of)._
 ### osu!mania
 
 #### 2017
+
+_Main page: [Community Choice 2017](./2017/#osu!mania)
 
 | Placing | Beatmap (Mapper) |
 |---------|------------------|
