@@ -13,6 +13,8 @@ _Main page: [Best Of](/wiki/Best_Of "Best Of")_
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
+  
+## osu!standard
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
