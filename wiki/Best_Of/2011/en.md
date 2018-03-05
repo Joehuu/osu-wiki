@@ -92,7 +92,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |72|31|[ClariS - Kimi to Futari (osuplayer111)](http://osu.ppy.sh/s/27527/ "ClariS - Kimi to Futari (osuplayer111)")|
 |73|31|[Megpoid GUMI - Chocolate (val0108)](http://osu.ppy.sh/s/26652/ "Megpoid GUMI - Chocolate (val0108)")|
 |74|31|[Hatsune Miku - Kusaregedou to Chocolate (val0108)](http://osu.ppy.sh/s/25248/ "Hatsune Miku - Kusaregedou to Chocolate (val0108)")|
-|75|30|[wa. remixed celas - Suishou-Sekai ~Fracture~ (soulfear)](http://osu.ppy.sh/s/28984/ "wa. remixed celas - Suishou-Sekai ~Fracture~ (soulfear)")|
+|75|30|[wa. remixed celas - Suishou-Sekai /~Fracture/~ (soulfear)](http://osu.ppy.sh/s/28984/ "wa. remixed celas - Suishou-Sekai /~Fracture/~ (soulfear)")|
 |76|30|[DECO*27 feat. marina - Aimai Elegy (Mafiamaster)](http://osu.ppy.sh/s/27306/ "DECO*27 feat. marina - Aimai Elegy (Mafiamaster)")|
 |77|30|[DJ Okawari - Flower Dance (spboxer3)](http://osu.ppy.sh/s/23207/ "DJ Okawari - Flower Dance (spboxer3)")|
 |78|30|[seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i)](http://osu.ppy.sh/s/32523/ "seiya-murai feat.ALT - Sumidagawa Karenka (m i z u k i)")|
