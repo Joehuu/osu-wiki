@@ -45,6 +45,6 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |25|62| [IOSYS - Neko Miko Reimu (-SiN-)](https://osu.ppy.sh/s/9264)|
 |26|61| [Silver Forest - Kero (9) Destiny (Yes)](https://osu.ppy.sh/s/8523)|
 |27|60| [Hatsune Miku - Triple Baka (Mafiamaster)](https://osu.ppy.sh/s/4674)|
-|28|59| [Hisaka Yoko - Fudepen ~Ballpen~ (TV Size) (DJPop)](https://osu.ppy.sh/s/8431)|
+|28|59| [Hisaka Yoko - Fudepen \~Ballpen\~ (TV Size) (DJPop)](https://osu.ppy.sh/s/8431)|
 |29|58| [Nightmare - The World (cesc)](https://osu.ppy.sh/s/4851)|
 |30|58| [Girls' Generation - Gee (supergarlic)](https://osu.ppy.sh/s/6680)|
