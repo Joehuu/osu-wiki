@@ -1,18 +1,26 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2011
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_Part of [Best Of series](/wiki/Best_Of)._
+
+## General
 
 - [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2011)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
   - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
+  
+### osu!standard
 
 |Placing|Votes|Beatmap|
 |:---:|:---:|:---|
-|1|190|[DJ Fresh - Gold Dust (galvenize)](http://osu.ppy.sh/s/28107/ "DJ Fresh - Gold Dust (galvenize)")|
-|2|174|[Bomfunk MC's - Freestyler (Lesjuh)](http://osu.ppy.sh/s/35629/ "Bomfunk MC's - Freestyler (Lesjuh)")|
-|3|119|[07th Expansion - Final Answer (gowww)](http://osu.ppy.sh/s/26226/ "07th Expansion - Final Answer (gowww)")|
+|![1][#1]|190|[DJ Fresh - Gold Dust (galvenize)](http://osu.ppy.sh/s/28107/ "DJ Fresh - Gold Dust (galvenize)")|
+|![2][#2]|174|[Bomfunk MC's - Freestyler (Lesjuh)](http://osu.ppy.sh/s/35629/ "Bomfunk MC's - Freestyler (Lesjuh)")|
+|![3][#3]|119|[07th Expansion - Final Answer (gowww)](http://osu.ppy.sh/s/26226/ "07th Expansion - Final Answer (gowww)")|
 |4|110|[Hatsune Miku - Senbonzakura (Short Ver.) (NatsumeRin)](http://osu.ppy.sh/s/36858/ "Hatsune Miku - Senbonzakura (Short Ver.) (NatsumeRin)")|
 |5|105|[Noisestorm - Solar (Shiirn)](http://osu.ppy.sh/s/33483/ "Noisestorm - Solar (Shiirn)")|
 |6|90|[Hatsune Miku - Rubik's Cube (rui)](http://osu.ppy.sh/s/33651/ "Hatsune Miku - Rubik's Cube (rui)")|
