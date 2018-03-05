@@ -4,9 +4,11 @@
 
 # 2017
 
-_Main page: [Community Choice](/wiki/Community_Choice)_
+_Part of the [Community Choice](/wiki/Community_Choice) series._
 
 ## General
+
+All submissions: [Google Docs](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
 
 ### Contest Pages
 
@@ -24,7 +26,7 @@ _Main page: [Community Choice](/wiki/Community_Choice)_
 
 - [Community Choice 2017 Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
 
-## osu!standard
+## osu!standard (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|
@@ -79,7 +81,7 @@ _Main page: [Community Choice](/wiki/Community_Choice)_
 | 49	|	[BLANKFIELD - Goodbye by Kyubey](http://osu.ppy.sh/s/553906)	|	586	|	553906	|
 | 50	|	[Helblinde - The Solace of Oblivion by ProfessionalBox](http://osu.ppy.sh/s/594751)	|	568	|	594751	|
 
-## osu!taiko
+## osu!taiko (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|
@@ -134,7 +136,7 @@ _Main page: [Community Choice](/wiki/Community_Choice)_
 | 49	|	[Chino(Minase Inori) - Okashi na Yume o Ohitotsu Douzo by 404 AccNotFound](http://osu.ppy.sh/s/593993)	|	42	|	593993	|
 | 50	|	[DECO*27 - Reversible Campaign by snowball112](http://osu.ppy.sh/s/555581)	|	41	|	555581	|
 
-## osu!catch
+## osu!catch (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|
@@ -189,7 +191,7 @@ _Main page: [Community Choice](/wiki/Community_Choice)_
 | 49	|	[Los Fix - Halloween by Ponchiwi](http://osu.ppy.sh/s/512281)	|	56	|	512281	|
 | 50	|	[MISATO - Necro Fantasia by Chromoxx](http://osu.ppy.sh/s/516494)	|	56	|	516494	|
 
-## osu!mania
+## osu!mania (Top 50)
 
 | Placing |	Beatmap Name | Votes | ID |
 |:-------:|:-------------|:-----:|:--:|
