@@ -60,7 +60,7 @@ User Groups
 | [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | We help you enjoy *osu!*, starting with assuring the quality of beatmaps. |
 
-[flag_AU]: /wiki/shared/flags/AU.png "Austrailia"
+[flag_AU]: /wiki/shared/flags/AU.png "Australia"
 [flag_DE]: /wiki/shared/flags/DE.png "Germany"
 [flag_FR]: /wiki/shared/flags/FR.png "France"
 [flag_NZ]: /wiki/shared/flags/NZ.png "New Zealand"
