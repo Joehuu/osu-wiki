@@ -11,6 +11,10 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 - [Official Google Doc of the results](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
 - [Ranking Chart](https://osu.ppy.sh/p/chart?ch=BEST2012) (First 31 songs. 21 ranked, 10 approved)
 
+## Modes
+
+_Only osu!standard for this year._
+
 ## osu!standard
 
 |Placing|Votes|Beatmap|
