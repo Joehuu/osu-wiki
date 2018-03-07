@@ -20,7 +20,7 @@ _Only osu!standard for this year._
   
 ### osu!standard
 
-|Placing|Votes|Beatmap|
+|Placing|Votes|Beatmap (Mapper)|
 |:---:|:---:|:---|
 |![1][#1]|190|[DJ Fresh - Gold Dust (galvenize)](http://osu.ppy.sh/beatmapsets/28107/ "DJ Fresh - Gold Dust (galvenize)")|
 |![2][#2]|174|[Bomfunk MC's - Freestyler (Lesjuh)](http://osu.ppy.sh/beatmapsets/35629/ "Bomfunk MC's - Freestyler (Lesjuh)")|
