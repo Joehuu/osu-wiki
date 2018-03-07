@@ -20,7 +20,7 @@ _Only osu!standard for this year._
 
 ### osu!standard
 
-|Placing|Votes|Beatmap|
+|Placing|Votes|Beatmap (Mapper)|
 |:---:|:---:|:---|
 |![1][#1]|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/beatmapsets/5381)|
 |![2][#2]|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/beatmapsets/6257)|
