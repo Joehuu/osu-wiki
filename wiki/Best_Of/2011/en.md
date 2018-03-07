@@ -13,6 +13,10 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
   - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
+
+## Modes
+
+_Only osu!standard for this year._
   
 ## osu!standard
 
