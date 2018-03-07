@@ -13,11 +13,11 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
-  
+
 ## osu!standard
 
 |Placing|Votes|Beatmap|
-|:---:|:---:|:---|
+|:-----:|:---:|:------|
 |![1][#1]|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/beatmapsets/5381)|
 |![2][#2]|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/beatmapsets/6257)|
 |![3][#3]|172| [Toyosaki Aki - Cagayake! GIRLS (TV Size) (DJPop)](https://osu.ppy.sh/beatmapsets/6358)|
