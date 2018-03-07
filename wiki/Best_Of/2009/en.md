@@ -16,6 +16,8 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 ## Modes
 
+_Only osu!standard for this year._
+
 ### osu!standard
 
 |Placing|Votes|Beatmap|
