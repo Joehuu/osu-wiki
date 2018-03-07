@@ -6,7 +6,7 @@
 
 _For 2016 and older years, see the [Best Of series](/wiki/Best_Of)._
 
-Every December, you could vote for the beatmap you like the best. You could vote up to 10 beatmaps! Weighted score didn't happen in this series yet. Votes will be getting higher by the year after the development of the client and web.
+Every December, you can vote for the beatmap you like the best. You can vote up to 10 beatmaps! Weighted score didn't happen in this series yet. Votes will be getting higher by the year after the development of the client and web.
 
 Wait until the news comes in December, and then you can vote. To vote, simply go the [contests](https://osu.ppy.sh/community/contests) page here, via navigation or the news and star your favourite beatmaps!
 
