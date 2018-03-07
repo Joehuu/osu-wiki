@@ -6,7 +6,9 @@
 
 _For 2017 and onwards, see the [Community Choice series](/wiki/Community_Choice)._
 
-Every December, you can vote for the beatmap you like the best. You can vote up to 10 beatmaps! Some years have "weighted score", which determines the placing, not by the amount of votes. Factors of weighted score include: pp, play count, and difficulty of the beatmap. After 2016, the series changed its name to "Community Choice."
+Every December, you could vote for the beatmap you like the best. You could vote up to 10 beatmaps! Some years have "weighted score", which determines the placing, not by the amount of votes. Factors of weighted score include: pp, play count, and difficulty of the beatmap. After 2016, the series changed its name to "Community Choice."
+
+Wait until the news comes in December, and then you can vote. To vote, simply go the [contests](https://osu.ppy.sh/community/contests) page here, via navigation or the news and star your favourite beatmaps!
 
 ## Index
 
