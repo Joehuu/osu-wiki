@@ -151,9 +151,9 @@ _Main page: [Best of 2016](./2016/#osu!standard "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |:-------:|:-----------------|
-| ![#1][#1] | [9mm Parabellum Bullet - Inferno by Monstrata](https://osu.ppy.sh/beatmapsets/482090) |
-| ![#2][#2] | [Feint - Tower Of Heaven (You Are Slaves) by eLy](https://osu.ppy.sh/beatmapsets/128931) |
-| ![#3][#3] | [RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata](https://osu.ppy.sh/beatmapsets/513590) |
+| ![#1][#1] | [9mm Parabellum Bullet - Inferno(Monstrata)](https://osu.ppy.sh/beatmapsets/482090) |
+| ![#2][#2] | [Feint - Tower Of Heaven (You Are Slaves)(eLy)](https://osu.ppy.sh/beatmapsets/128931) |
+| ![#3][#3] | [RADWIMPS - Zen Zen Zense (movie ver.)(Monstrata)](https://osu.ppy.sh/beatmapsets/513590) |
 
 - [Top 1265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0)
 - [Votes](https://osu.ppy.sh/community/contests/39)
@@ -220,9 +220,9 @@ _Main page: [Best of 2016](./2016/#osu!taiko "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |:-------:|:-----------------|
-| ![#1][#1] | [toby fox - Spider Dance by OzzyOzrock](https://osu.ppy.sh/beatmapsets/373414) |
-| ![#2][#2] | [toby fox - Battle Against a True Hero by S a n d](https://osu.ppy.sh/beatmapsets/371182) |
-| ![#3][#3] | [AAAA Chazuke - Hop Step Adventure* by TKS](https://osu.ppy.sh/beatmapsets/466471) |
+| ![#1][#1] | [toby fox - Spider Dance(OzzyOzrock)](https://osu.ppy.sh/beatmapsets/373414) |
+| ![#2][#2] | [toby fox - Battle Against a True Hero(S a n d)](https://osu.ppy.sh/beatmapsets/371182) |
+| ![#3][#3] | [AAAA Chazuke - Hop Step Adventure*(TKS)](https://osu.ppy.sh/beatmapsets/466471) |
 
 - [Top 190](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556)
 - [Votes](https://osu.ppy.sh/community/contests/40)
@@ -289,9 +289,9 @@ _Main page: [Best of 2016](./2016/#osu!catch "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |:-------:|:-----------------|
-| ![#1][#1] | [saradisk - 176 - ikazuchi by Ascendance](https://osu.ppy.sh/beatmapsets/424208) |
-| ![#2][#2] | [Memme - Acid Burst by Priti](https://osu.ppy.sh/beatmapsets/302535) |
-| ![#3][#3] | [Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator](https://osu.ppy.sh/beatmapsets/228539) |
+| ![#1][#1] | [saradisk - 176 - ikazuchi(Ascendance)](https://osu.ppy.sh/beatmapsets/424208) |
+| ![#2][#2] | [Memme - Acid Burst(Priti)](https://osu.ppy.sh/beatmapsets/302535) |
+| ![#3][#3] | [Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express(Spectator)](https://osu.ppy.sh/beatmapsets/228539) |
 
 - [Top 94](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793)
 - [Votes](https://osu.ppy.sh/community/contests/41)
@@ -358,9 +358,9 @@ _Main page: [Best of 2016](./2016/#osu!mania "Best of 2016")_
 
 | Placing | Beatmap (Mapper) |
 |:-------:|:-----------------|
-| ![#1][#1] | [Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken](https://osu.ppy.sh/beatmapsets/349208) |
-| ![#2][#2] | [t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan](https://osu.ppy.sh/beatmapsets/310607) |
-| ![#3][#3] | [t+pazolite - CENSORED!! by Kuo Kyoka](https://osu.ppy.sh/beatmapsets/476221) |
+| ![#1][#1] | [Camellia as \"Bang Riot\" - Blastix Riotz(Fresh Chicken)](https://osu.ppy.sh/beatmapsets/349208) |
+| ![#2][#2] | [t+pazolite - Electric \"Sister\" Bitch(Verniy_Chan)](https://osu.ppy.sh/beatmapsets/310607) |
+| ![#3][#3] | [t+pazolite - CENSORED!!(Kuo Kyoka)](https://osu.ppy.sh/beatmapsets/476221) |
 
 - [Top 265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
 - [Votes](https://osu.ppy.sh/community/contests/42)
