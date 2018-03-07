@@ -37,9 +37,9 @@ Inactive
 | ![][flag_US] | [Derekku](https://osu.ppy.sh/u/91341) | General housekeeping, Community management |
 | ![][flag_NZ] | [Echo](https://osu.ppy.sh/u/431) ([blog](http://blog.echo.sh/)) | osu! dev team, IRC integration of in-game chat, Site maintenance |
 | ![][flag_NL] | [Intermezzo](https://osu.ppy.sh/u/136842) | osu! dev team, osz2/p2p backend |
-| ![][flag_US] | Jim ([Brand New Games](http://www.bravegamer.com/)) |  Original site design |
+| ![][flag_US] | Jim |  Original site design, ([Brand New Games](http://www.bravegamer.com/)) |
 | ![][flag_DE] | [Loctav](https://osu.ppy.sh/u/71366) | World Cup organization and administration, QAT leadership and community management |
-| ![][flag_US] | [LuigiHann](https://osu.ppy.sh/u/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Epic skin design, Contributions to default skin and iconset |
+| ![][flag_US] | [LuigiHann](https://osu.ppy.sh/u/1079) | Epic skin design, Contributions to default skin and iconset, ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) |
 | ![][flag_US] | [mm201](https://osu.ppy.sh/u/30655) | osu! dev team, mm sliders |
 | ![][flag_US] | [nuudles](https://osu.ppy.sh/u/21312) | osu! iPhone dev |
 | ![][flag_US] | Phil | Forum design work |
