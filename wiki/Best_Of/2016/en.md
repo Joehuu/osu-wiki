@@ -1,3 +1,7 @@
+[#1]: /wiki/shared/GCrown.png "1st"
+[#2]: /wiki/shared/SCrown.png "2nd"
+[#3]: /wiki/shared/BCrown.png "3rd"
+
 # 2016
 
 _Part of the [Best Of](/wiki/Best_Of) series._
@@ -27,9 +31,9 @@ In short, the weighting takes into account the amount of times you've played a m
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|
-|1|482090|[9mm Parabellum Bullet - Inferno by Monstrata](https://osu.ppy.sh/beatmapsets/482090/ "9mm Parabellum Bullet - Inferno by Monstrata")|3704|4490.088|
-|2|128931|[Feint - Tower Of Heaven (You Are Slaves) by eLy](https://osu.ppy.sh/beatmapsets/128931/ "Feint - Tower Of Heaven (You Are Slaves) by eLy")|1949|2047.561|
-|3|513590|[RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata](https://osu.ppy.sh/beatmapsets/513590/ "RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata")|2311|1946.06|
+|![1][#1]|482090|[9mm Parabellum Bullet - Inferno by Monstrata](https://osu.ppy.sh/beatmapsets/482090/ "9mm Parabellum Bullet - Inferno by Monstrata")|3704|4490.088|
+|![2][#2]|128931|[Feint - Tower Of Heaven (You Are Slaves) by eLy](https://osu.ppy.sh/beatmapsets/128931/ "Feint - Tower Of Heaven (You Are Slaves) by eLy")|1949|2047.561|
+|![3][#3]|513590|[RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata](https://osu.ppy.sh/beatmapsets/513590/ "RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata")|2311|1946.06|
 |4|459149|[Ayase Rie - Yuima-ru*World TVver. by Fycho](https://osu.ppy.sh/beatmapsets/459149/ "Ayase Rie - Yuima-ru*World TVver. by Fycho")|1403|1884.566|
 |5|355573|[O2i3 - Ooi [Game Edit] by Fort](https://osu.ppy.sh/beatmapsets/355573/ "O2i3 - Ooi [Game Edit] by Fort")|1748|1866.105|
 |6|452230|[BABYMETAL - Gimme chocolate!! by alacat](https://osu.ppy.sh/beatmapsets/452230/ "BABYMETAL - Gimme chocolate!! by alacat")|2042|1368.734|
@@ -135,9 +139,9 @@ In short, the weighting takes into account the amount of times you've played a m
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|
-|1|373414|[toby fox - Spider Dance by OzzyOzrock](https://osu.ppy.sh/beatmapsets/373414/ "toby fox - Spider Dance by OzzyOzrock")|326|260.377|
-|2|371182|[toby fox - Battle Against a True Hero by S a n d](https://osu.ppy.sh/beatmapsets/371182/ "toby fox - Battle Against a True Hero by S a n d")|253|182.034|
-|3|466471|[AAAA Chazuke - Hop Step Adventure* by TKS](https://osu.ppy.sh/beatmapsets/466471/ "AAAA Chazuke - Hop Step Adventure* by TKS")|166|178.528|
+|![1][#1]|373414|[toby fox - Spider Dance by OzzyOzrock](https://osu.ppy.sh/beatmapsets/373414/ "toby fox - Spider Dance by OzzyOzrock")|326|260.377|
+|![2][#2]|371182|[toby fox - Battle Against a True Hero by S a n d](https://osu.ppy.sh/beatmapsets/371182/ "toby fox - Battle Against a True Hero by S a n d")|253|182.034|
+|![3][#3]|466471|[AAAA Chazuke - Hop Step Adventure* by TKS](https://osu.ppy.sh/beatmapsets/466471/ "AAAA Chazuke - Hop Step Adventure* by TKS")|166|178.528|
 |4|481954|[9mm Parabellum Bullet - Inferno by Nofool](https://osu.ppy.sh/beatmapsets/481954/ "9mm Parabellum Bullet - Inferno by Nofool")|139|161.846|
 |5|410293|[Reol - Streaming Heart by Chromoxx](https://osu.ppy.sh/beatmapsets/410293/ "Reol - Streaming Heart by Chromoxx")|151|148.961|
 |6|355068|[NU-KO - Pochiko no Shiawase na Nichijou (Long Version) by tasuke912](https://osu.ppy.sh/beatmapsets/355068/ "NU-KO - Pochiko no Shiawase na Nichijou (Long Version) by tasuke912")|132|144.1|
@@ -243,9 +247,9 @@ In short, the weighting takes into account the amount of times you've played a m
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|
-|1|424208|[saradisk - 176 - ikazuchi by Ascendance](https://osu.ppy.sh/beatmapsets/424208/ "saradisk - 176 - ikazuchi by Ascendance")|197|251.4|
-|2|302535|[Memme - Acid Burst by Priti](https://osu.ppy.sh/beatmapsets/302535/ "Memme - Acid Burst by Priti")|166|232.545|
-|3|228539|[Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator](https://osu.ppy.sh/beatmapsets/228539/ "Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator")|197|214.64|
+|![1][#1]|424208|[saradisk - 176 - ikazuchi by Ascendance](https://osu.ppy.sh/beatmapsets/424208/ "saradisk - 176 - ikazuchi by Ascendance")|197|251.4|
+|![2][#2]|302535|[Memme - Acid Burst by Priti](https://osu.ppy.sh/beatmapsets/302535/ "Memme - Acid Burst by Priti")|166|232.545|
+|![3][#3]|228539|[Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator](https://osu.ppy.sh/beatmapsets/228539/ "Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator")|197|214.64|
 |4|460789|[ParagonX9 - Chaoz Japan by Razor Sharp](https://osu.ppy.sh/beatmapsets/460789/ "ParagonX9 - Chaoz Japan by Razor Sharp")|180|193.79|
 |5|401604|[Maffalda - Feliz Pascoa pra todos voces apesar de ninguem ter me mandado chocolates by Hareimu](https://osu.ppy.sh/beatmapsets/401604/ "Maffalda - Feliz Pascoa pra todos voces apesar de ninguem ter me mandado chocolates by Hareimu")|178|184.282|
 |6|221687|[wa. vs celas - Vajuranda by alienflybot](https://osu.ppy.sh/beatmapsets/221687/ "wa. vs celas - Vajuranda by alienflybot")|136|162.427|
@@ -345,9 +349,9 @@ In short, the weighting takes into account the amount of times you've played a m
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
 |:---:|:---|:---|---:|:---:|
-|1|349208|[Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken](https://osu.ppy.sh/beatmapsets/349208/ "Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken")|748|1115.862|
-|2|310607|[t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan](https://osu.ppy.sh/beatmapsets/310607/ "t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan")|670|937.265|
-|3|476221|[t+pazolite - CENSORED!! by Kuo Kyoka](https://osu.ppy.sh/beatmapsets/476221/ "t+pazolite - CENSORED!! by Kuo Kyoka")|730|875.451|
+|![1][#1]|349208|[Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken](https://osu.ppy.sh/beatmapsets/349208/ "Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken")|748|1115.862|
+|![2][#2]|310607|[t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan](https://osu.ppy.sh/beatmapsets/310607/ "t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan")|670|937.265|
+|![3][#3]|476221|[t+pazolite - CENSORED!! by Kuo Kyoka](https://osu.ppy.sh/beatmapsets/476221/ "t+pazolite - CENSORED!! by Kuo Kyoka")|730|875.451|
 |4|171880|[xi - Happy End of the World by Blocko](https://osu.ppy.sh/beatmapsets/171880/ "xi - Happy End of the World by Blocko")|719|843.475|
 |5|407186|[S3RL feat Krystal - R4V3 B0Y by Draftnell](https://osu.ppy.sh/beatmapsets/407186/ "S3RL feat Krystal - R4V3 B0Y by Draftnell")|612|705.717|
 |6|379758|[Cardboard Box - The Limit Does Not Exist by iJinjin](https://osu.ppy.sh/beatmapsets/379758/ "Cardboard Box - The Limit Does Not Exist by iJinjin")|441|610.032|
