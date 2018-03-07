@@ -30,7 +30,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
-|:---:|:---|:---|---:|:---:|
+|:---:|:--:|:---|:---:|:--:|
 |![1][#1]|482090|[9mm Parabellum Bullet - Inferno by Monstrata](https://osu.ppy.sh/beatmapsets/482090/ "9mm Parabellum Bullet - Inferno by Monstrata")|3704|4490.088|
 |![2][#2]|128931|[Feint - Tower Of Heaven (You Are Slaves) by eLy](https://osu.ppy.sh/beatmapsets/128931/ "Feint - Tower Of Heaven (You Are Slaves) by eLy")|1949|2047.561|
 |![3][#3]|513590|[RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata](https://osu.ppy.sh/beatmapsets/513590/ "RADWIMPS - Zen Zen Zense (movie ver.) by Monstrata")|2311|1946.06|
@@ -138,7 +138,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
-|:---:|:---|:---|---:|:---:|
+|:---:|:--:|:---|:---:|:--:|
 |![1][#1]|373414|[toby fox - Spider Dance by OzzyOzrock](https://osu.ppy.sh/beatmapsets/373414/ "toby fox - Spider Dance by OzzyOzrock")|326|260.377|
 |![2][#2]|371182|[toby fox - Battle Against a True Hero by S a n d](https://osu.ppy.sh/beatmapsets/371182/ "toby fox - Battle Against a True Hero by S a n d")|253|182.034|
 |![3][#3]|466471|[AAAA Chazuke - Hop Step Adventure* by TKS](https://osu.ppy.sh/beatmapsets/466471/ "AAAA Chazuke - Hop Step Adventure* by TKS")|166|178.528|
@@ -246,7 +246,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
-|:---:|:---|:---|---:|:---:|
+|:---:|:--:|:---|:---:|:--:|
 |![1][#1]|424208|[saradisk - 176 - ikazuchi by Ascendance](https://osu.ppy.sh/beatmapsets/424208/ "saradisk - 176 - ikazuchi by Ascendance")|197|251.4|
 |![2][#2]|302535|[Memme - Acid Burst by Priti](https://osu.ppy.sh/beatmapsets/302535/ "Memme - Acid Burst by Priti")|166|232.545|
 |![3][#3]|228539|[Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator](https://osu.ppy.sh/beatmapsets/228539/ "Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express by Spectator")|197|214.64|
@@ -348,7 +348,7 @@ In short, the weighting takes into account the amount of times you've played a m
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
 
 |Placing|Beatmap ID|Title|Raw Votes|Weighted Score|
-|:---:|:---|:---|---:|:---:|
+|:---:|:--:|:---|:---:|:--:|
 |![1][#1]|349208|[Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken](https://osu.ppy.sh/beatmapsets/349208/ "Camellia as \"Bang Riot\" - Blastix Riotz by Fresh Chicken")|748|1115.862|
 |![2][#2]|310607|[t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan](https://osu.ppy.sh/beatmapsets/310607/ "t+pazolite - Electric \"Sister\" Bitch by Verniy_Chan")|670|937.265|
 |![3][#3]|476221|[t+pazolite - CENSORED!! by Kuo Kyoka](https://osu.ppy.sh/beatmapsets/476221/ "t+pazolite - CENSORED!! by Kuo Kyoka")|730|875.451|
