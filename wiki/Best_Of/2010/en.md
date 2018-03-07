@@ -19,7 +19,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 _Only osu!standard for this year._
 
-## osu!standard
+### osu!standard
 
 |Placing|Votes|Beatmap|
 |:-----:|:---:|:------|
