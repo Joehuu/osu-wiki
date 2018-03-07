@@ -10,7 +10,9 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 - [News Results](https://osu.ppy.sh/news/138781453998)
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
-## osu!standard
+## Modes
+
+### osu!standard
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
 |:---:|:---|:---|:---:|---:|---:|
@@ -115,7 +117,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |99|332623|[Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)](https://osu.ppy.sh/beatmapsets/332623/ "Doma Umaru [CV.Tanaka Aimi] - Kakushinteki*Metamaruphose! (Crystal)")|1.06|1385|16536|
 |100|223871|[Goose house - Hikaru nara -TV size- (Pandiar)](https://osu.ppy.sh/beatmapsets/223871/ "Goose house - Hikaru nara -TV size- (Pandiar)")|1.06|633|10581|
 
-## osu!taiko
+### osu!taiko
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
 |:---:|:---|:---|:---:|---:|---:|
@@ -220,7 +222,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |99|194109|[RYO - Shuffle Heaven (Nwolf)](https://osu.ppy.sh/beatmapsets/194109/ "RYO - Shuffle Heaven (Nwolf)")|0.99|72|498|
 |100|198294|[J*Dee'Z with Pikachu - Peace Smile! (Coro)](https://osu.ppy.sh/beatmapsets/198294/ "J*Dee'Z with Pikachu - Peace Smile! (Coro)")|0.99|29|154|
 
-## osu!catch
+### osu!catch
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
 |:---:|:---|:---|:---:|---:|---:|
@@ -297,7 +299,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 |71|231024|[Toni Ten - Tu ets el meu cor encantat (Hanjamon)](https://osu.ppy.sh/beatmapsets/231024/ "Toni Ten - Tu ets el meu cor encantat (Hanjamon)")|0.67|22|262|
 |72|290520|[Yoshito Hirano - Opening (BoberOfDarkness)](https://osu.ppy.sh/beatmapsets/290520/ "Yoshito Hirano - Opening (BoberOfDarkness)")|0.67|41|363|
 
-## osu!mania
+### osu!mania
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
 |:---:|:---|:---|:---:|---:|---:|
