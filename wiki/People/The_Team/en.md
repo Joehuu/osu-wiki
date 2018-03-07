@@ -39,11 +39,11 @@ Inactive
 | ![][flag_NL] | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev team, osz2/p2p backend |
 | ![][flag_US] | Jim |  Original site design, [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] | [Loctav](https://osu.ppy.sh/users/71366) | World Cup organization and administration, QAT leadership and community management |
-| ![][flag_US] | [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin design, Contributions to default skin and iconset, ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) |
+| ![][flag_US] | [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin design, Contributions to default skin and iconset, ([luigihann@DeviantArt](https://luigihann.deviantart.com/)) |
 | ![][flag_US] | [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
 | ![][flag_US] | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |
 | ![][flag_US] | Phil | Forum design work |
-| ![][flag_US] | [Sarumaru](https://osu.ppy.sh/users/9427) | Original Pippi concept and artwork design, [Sarumaru@deviantART.com](https://sarumaru.deviantart.com/) |
+| ![][flag_US] | [Sarumaru](https://osu.ppy.sh/users/9427) | Original Pippi concept and artwork design, [Sarumaru@DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] | [Sinistro](https://osu.ppy.sh/users/5530) | Early community management and leadership, Meeting minutes, FAQ contributions |
 | ![][flag_CN] | [woc2006](https://osu.ppy.sh/users/1105845) | osu! dev team, osu!mania mode dev |
 | ![][flag_US] | [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Announcements/osu!academy) professor, Media/character design |
