@@ -368,7 +368,7 @@ In short, the weighting takes into account the amount of times you've played a m
 |23|412632|[P*Light - YELLOW SPLASH!! by Critical_Star](https://osu.ppy.sh/beatmapsets/412632/ "P*Light - YELLOW SPLASH!! by Critical_Star")|294|342.276|
 |24|415886|[Kaneko Chiharu - Lachryma<Re:Queen'M> by Fresh Chicken](https://osu.ppy.sh/beatmapsets/415886/ "Kaneko Chiharu - Lachryma<Re:Queen'M> by Fresh Chicken")|245|336.132|
 |25|491454|[Camellia as \"Reverse of Riot\" - Completeness Under Incompleteness by Fresh Chicken](https://osu.ppy.sh/beatmapsets/491454/ "Camellia as \"Reverse of Riot\" - Completeness Under Incompleteness by Fresh Chicken")|285|336.041|
-|26|451567|[CustomiZ - COOLEST by [-Star_Lenz-]](https://osu.ppy.sh/beatmapsets//beatmapsets/451567/ "CustomiZ - COOLEST by [-Star_Lenz-]")|273|331.493|
+|26|451567|[CustomiZ - COOLEST by [-Star_Lenz-]](https://osu.ppy.sh/beatmapsets/451567/ "CustomiZ - COOLEST by [-Star_Lenz-]")|273|331.493|
 |27|383929|[O2i3 - Belly Flopper by Ilham](https://osu.ppy.sh/beatmapsets/383929/ "O2i3 - Belly Flopper by Ilham")|248|312.883|
 |28|363594|[THE ORAL CIGARETTES - Kyouran Hey Kids!! by Lina Sintyadewi](https://osu.ppy.sh/beatmapsets/363594/ "THE ORAL CIGARETTES - Kyouran Hey Kids!! by Lina Sintyadewi")|302|308.951|
 |29|357060|[Rohi - Kakuzetsu Thanatos by _underjoy](https://osu.ppy.sh/beatmapsets/357060/ "Rohi - Kakuzetsu Thanatos by _underjoy")|209|306.02|
