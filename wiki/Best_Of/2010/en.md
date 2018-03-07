@@ -15,10 +15,10 @@ _Part of the [Best Of](/wiki/Best_Of) series._
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
 
-### osu!standard
+## osu!standard
 
 |Placing|Votes|Beatmap|
-|:---:|:---:|:---|
+|:-----:|:---:|:------|
 |![1][#1]|59|[Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)](https://osu.ppy.sh/beatmapsets/19789/ "Hatsune Miku & Megpoid Gumi - MATRYOSHKA (gowww)")|
 |![2][#2]|56|[07th Expansion - rog-limitation (AngelHoney)](https://osu.ppy.sh/beatmapsets/14994/ "07th Expansion - rog-limitation (AngelHoney)")|
 |![3][#3]|56|[Baracuda - La Di Da (Nightcore Mix) (ztrot)](https://osu.ppy.sh/beatmapsets/17852/ "Baracuda - La Di Da (Nightcore Mix) (ztrot)")|
