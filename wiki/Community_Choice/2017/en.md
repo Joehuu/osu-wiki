@@ -129,7 +129,7 @@ All submissions: [Google Docs](https://docs.google.com/spreadsheets/d/e/2PACX-1v
 | 42	|	[P*Light - Gekkou Ranbu by Nanatsu](http://osu.ppy.sh/beatmapsets/406934)	|	44	|	406934	|
 | 43	|	[Whispered - Jikininki by LZD](http://osu.ppy.sh/beatmapsets/415048)	|	44	|	415048	|
 | 44	|	[Konomi Suzuki - This game(TV-Size) by Chromoxx](http://osu.ppy.sh/beatmapsets/617670)	|	44	|	617670	|
-| 45	|	[cYsmix - Classic Pursuit by Hanjamon](http://osu.ppy.sh/beatmapsets//beatmapsets/373254)	|	43	|	373254	|
+| 45	|	[cYsmix - Classic Pursuit by Hanjamon](http://osu.ppy.sh/beatmapsets/373254)	|	43	|	373254	|
 | 46	|	[Luis Fonsi - Despacito ft. Daddy Yankee by Monstrata](http://osu.ppy.sh/beatmapsets/665562)	|	43	|	665562	|
 | 47	|	[DM DOKURO - SAVE by Raiden](http://osu.ppy.sh/beatmapsets/532100)	|	43	|	532100	|
 | 48	|	[xi - Wish upon Twin Stars by Ascendance](http://osu.ppy.sh/beatmapsets/353259)	|	42	|	353259	|
