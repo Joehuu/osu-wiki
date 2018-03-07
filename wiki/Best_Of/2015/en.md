@@ -19,7 +19,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 ### osu!standard
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
+|:---:|:--:|:---|:---:|:--:|:--:|
 |![1][#1]|332532|[Panda Eyes & Teminite - Highscore (Fort)](https://osu.ppy.sh/beatmapsets/332532/ "Panda Eyes & Teminite - Highscore (Fort)")|1.72|9817|29272|
 |![2][#2]|219380|[Konuko - Toumei Elegy (Awaken)](https://osu.ppy.sh/beatmapsets/219380/ "Konuko - Toumei Elegy (Awaken)")|1.65|7586|25400|
 |![3][#3]|280107|[gmtn. (witch's slave) - furioso melodia (Alumetorz)](https://osu.ppy.sh/beatmapsets/280107/ "gmtn. (witch's slave) - furioso melodia (Alumetorz)")|1.61|3802|13704|
@@ -124,7 +124,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 ### osu!taiko
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
+|:---:|:--:|:---|:---:|:--:|:--:|
 |![1][#1]|275331|[cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331/ "cillia - Fairytale, (mintong89)")|1.57|93|257|
 |![2][#2]|329268|[joeyclassic - seal.mp4 (IntelliTroodon)](https://osu.ppy.sh/beatmapsets/329268/ "joeyclassic - seal.mp4 (IntelliTroodon)")|1.50|276|528|
 |![3][#3]|215476|[CyoucyoP feat.Hatsune Miku - End of the World (TKS)](https://osu.ppy.sh/beatmapsets/215476/ "CyoucyoP feat.Hatsune Miku - End of the World (TKS)")|1.47|228|582|
@@ -229,7 +229,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 ### osu!catch
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
+|:---:|:--:|:---|:---:|:--:|:--:|
 |![1][#1]|253969|[Halozy - Genryuu Kaiko (CLSW)](https://osu.ppy.sh/beatmapsets/253969/ "Halozy - Genryuu Kaiko (CLSW)")|1.83|541|867|
 |![2][#2]|287873|[Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)](https://osu.ppy.sh/beatmapsets/287873/ "Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)")|1.49|218|495|
 |![3][#3]|139525|[Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)](https://osu.ppy.sh/beatmapsets/139525/ "Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)")|1.41|287|641|
@@ -306,7 +306,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 ### osu!mania
 
 |Placing|Beatmap ID|Title|Weighted Score|Raw Votes|Total Plays (Voters)|
-|:---:|:---|:---|:---:|---:|---:|
+|:---:|:--:|:---|:---:|:--:|:--:|
 |![1][#1]|272871|[D(ABE3) - MANIERA (iJinjin)](https://osu.ppy.sh/beatmapsets/272871/ "D(ABE3) - MANIERA (iJinjin)")|1.63|880|2259|
 |![2][#2]|200552|[BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)](https://osu.ppy.sh/beatmapsets/200552/ "BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)")|1.48|1366|3789|
 |![3][#3]|288794|[AKINO from bless4 - MIIRO ([ S a k u r a ])](https://osu.ppy.sh/beatmapsets/288794/ "AKINO from bless4 - MIIRO ([ S a k u r a ])")|1.38|1023|3174|
