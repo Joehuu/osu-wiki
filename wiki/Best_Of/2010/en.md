@@ -15,6 +15,10 @@ _Part of the [Best Of](/wiki/Best_Of) series._
   - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
   - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
 
+## Modes
+
+_Only osu!standard for this year._
+
 ## osu!standard
 
 |Placing|Votes|Beatmap|
