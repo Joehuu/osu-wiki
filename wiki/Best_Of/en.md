@@ -370,6 +370,6 @@ _Main page: [Best of 2016](./2016/#osu!mania "Best of 2016")_
 
 ## 2017 and onwards
 
-_Main page: [Community Choice](/wiki/Community_Choice)_
+_Main page: [Community Choice series](/wiki/Community_Choice)_
 
-It is now known as Community Choice. The title "Best of" was a bit off because there were better beatmaps out there that weren't voted the "best".
+It is now known as Community Choice. The title "Best of" was a bit off because there were better beatmaps out there that weren't voted the "best". Weighted score didn't happen in 2017, so it may be all about votes now, since the community will increase drastically with the new client and web.
