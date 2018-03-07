@@ -6,9 +6,9 @@ The people listed below are the core of the osu!team, and are chiefly responsibl
 Creator
 -------
 
-| Name | Description |
-| ---- | ----------- |
-| [![][flag_AU] peppy](https://osu.ppy.sh/u/2) | Project lead |
+| Country | Name | Description |
+| ------- | ---- | ----------- |
+| ![][flag_AU] | [peppy](https://osu.ppy.sh/u/2) | Project lead |
 
 Active
 ------
