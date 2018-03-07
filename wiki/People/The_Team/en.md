@@ -42,7 +42,7 @@ Inactive
 | ![][flag_US] | [LuigiHann](https://osu.ppy.sh/u/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Epic skin design, Contributions to default skin and iconset |
 | ![][flag_US] | [mm201](https://osu.ppy.sh/u/30655) | osu! dev team, mm sliders |
 | ![][flag_US] | [nuudles](https://osu.ppy.sh/u/21312) | osu! iPhone dev |
-| ![][flag_US] | [Phil | Forum design work |
+| ![][flag_US] | Phil | Forum design work |
 | ![][flag_US] | [Sarumaru](https://osu.ppy.sh/u/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Original Pippi concept and artwork design |
 | ![][flag_GR] | [Sinistro](https://osu.ppy.sh/u/5530) | Early community management and leadership, Meeting minutes, FAQ contributions |
 | ![][flag_CN] | [woc2006](https://osu.ppy.sh/u/1105845) | osu! dev team, osu!mania mode dev |
