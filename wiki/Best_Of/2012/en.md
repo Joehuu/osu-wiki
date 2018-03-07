@@ -17,7 +17,7 @@ _Only osu!standard for this year._
 
 ### osu!standard
 
-|Placing|Votes|Beatmap|
+|Placing|Votes|Beatmap (Mapper)|
 |:---:|:---:|:---|
 |![1][#1]|740|[PSY - GANGNAM STYLE (yeahyeahyeahhh)](http://osu.ppy.sh/beatmapsets/55799 "PSY - GANGNAM STYLE (yeahyeahyeahhh)")|
 |![2][#2]|445|[xi - FREEDOM DiVE (Nakagawa-Kanon)](http://osu.ppy.sh/beatmapsets/39804 "xi - FREEDOM DiVE (Nakagawa-Kanon)")|
