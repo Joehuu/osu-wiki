@@ -28,7 +28,7 @@ _Main page: [Community Choice 2017](./2017/#osu!standard "Community Choice 2017"
 | ![#2][#2] | [Agnete Kjolsrud - Get Jinxed (Tarrasky)](https://osu.ppy.sh/beatmapsets/361740) |
 | ![#3][#3] | [*namirin - Koi no Hime Hime Pettanko ([C u r i])](https://osu.ppy.sh/beatmapsets/485056) |
 
-- [All 1301](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
+- [All 1301](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false "Google Spreadsheets")
 - [Votes](https://osu.ppy.sh/community/contests/59 "Community Choice 2017 (osu!)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
 - [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
@@ -45,7 +45,7 @@ _Main page: [Community Choice 2017](./2017/#osu!taiko "Community Choice 2017")_
 | ![#2][#2] | [D(ABE3) - MANIERA (_yu68)](https://osu.ppy.sh/beatmapsets/400761) |
 | ![#3][#3] | [Dunderpatrullen - We Are Number One (Remix) (Midnaait)](https://osu.ppy.sh/beatmapsets/547301) |
 
-- [All 355](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
+- [All 355](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false "Google Spreadsheets")
 - [Votes](https://osu.ppy.sh/community/contests/60 "Community Choice 2017 (osu!taiko)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
 - [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
@@ -62,7 +62,7 @@ _Main page: [Community Choice 2017](./2017/#osu!catch "Community Choice 2017")_
 | ![#2][#2] | [DJ Totoriott - Chronoxia (Kyuare)](https://osu.ppy.sh/beatmapsets/429184) |
 | ![#3][#3] | [Camellia - Towards The Horizon (Sinnoh)](https://osu.ppy.sh/beatmapsets/629384) |
 
-- [All 102](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
+- [All 102](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false "Google Spreadsheets")
 - [Votes](https://osu.ppy.sh/community/contests/61 "Community Choice 2017 (osu!catch)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
 - [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
@@ -79,7 +79,7 @@ _Main page: [Community Choice 2017](./2017/#osu!mania "Community Choice 2017")_
 | ![#2][#2] | [Dustvoxx - Trigger (Zekk Remix) (Wonki)](https://osu.ppy.sh/beatmapsets/555076) |
 | ![#3][#3] | [t+pazolite - Oshama Scramble! ([ A v a l o n ])](https://osu.ppy.sh/beatmapsets/511480) |
 
-- [All 202](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false)
+- [All 202](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRHLoBEqS6A3YSeIYfaPEVtFDK5ZpVS-j_n5llSikG_m3KPCJZ909aJCA--Ly-8Slc_pCeIUO4z8IU/pubhtml?widget=true&headers=false "Google Spreadsheets")
 - [Votes](https://osu.ppy.sh/community/contests/62 "Community Choice 2017 (osu!mania)")
 - [News](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017 "Community Choice 2017")
 - [Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results "Community Choice 2017 Results")
