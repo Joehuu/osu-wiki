@@ -14,7 +14,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 ### osu!standard
 
-|Placing|Votes|Beatmap|
+|Placing|Votes|Beatmap (Mapper)|
 |:-----:|:---:|:------|
 |![1][#1]|3093|[Aoi Eir - IGNITE (TV size ver.) (Guy)](http://osu.ppy.sh/beatmapsets/190222/ "Aoi Eir - IGNITE (TV size ver.) (Guy)")|
 |![2][#2]|2471|[Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](http://osu.ppy.sh/beatmapsets/134151/ "Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)")|
