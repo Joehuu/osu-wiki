@@ -14,7 +14,9 @@ _Part of the [Best Of](/wiki/Best_Of) series._
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
 
-## osu!standard
+## Modes
+
+### osu!standard
 
 |Placing|Votes|Beatmap|
 |:-----:|:---:|:------|
