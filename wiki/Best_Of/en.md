@@ -71,7 +71,7 @@ _Main page: [Best of 2011](./2011/#osu!standard "Best of 2011")_
 | ![#2][#2] | [Bomfunk MC's - Freestyler (Lesjuh)](https://osu.ppy.sh/beatmapsets/35629) |
 | ![#3][#3] | [07th Expansion - Final Answer (gowww)](https://osu.ppy.sh/beatmapsets/26226) |
 
-- [All 103](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
+- [All 103](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2011)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
@@ -88,7 +88,7 @@ _Main page: [Best of 2012](./2012/#osu!standard "Best of 2012")_
 | ![#2][#2] | [xi - FREEDOM DiVE (Nakagawa-Kanon)](https://osu.ppy.sh/beatmapsets/39804) |
 | ![#3][#3] | [Lily - Scarlet Rose (val0108)](https://osu.ppy.sh/beatmapsets/41686), [Hatsune Miku - Mythologia's End (val0108)](https://osu.ppy.sh/beatmapsets/48979) |
 
-- [All 100](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0)
+- [All 100](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2012)
 - Download (Mediafire):
   - [Part 1](https://www.mediafire.com/download/ew1p4foirfxoa5f/Best+of+2012+Chart+Pack+Part+1.rar)
@@ -106,7 +106,7 @@ _Main page: [Best of 2013](./2013/#osu!standard "Best of 2013")_
 | ![#2][#2] | [Yousei Teikoku - The Creator (meiikyuu)](https://osu.ppy.sh/beatmapsets/41242) |
 | ![#3][#3] | [An - artcore JINJA (Flower)](https://osu.ppy.sh/beatmapsets/114987)|
 
-- [All 1329](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [All 1329](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?04bsikk8j1d65t9)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
@@ -124,7 +124,7 @@ _Main page: [Best of 2014](./2014/#osu!standard "Best of 2014")_
 | ![#2][#2] | [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu)](https://osu.ppy.sh/beatmapsets/134151) |
 | ![#3][#3] | [cYsmix feat. Emmy - Tear Rain (jonathanlfj)](https://osu.ppy.sh/beatmapsets/140662) |
 
-- [All 1387](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [All 1387](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - [News #1](https://osu.ppy.sh/news/107825388293)
 - [News #2](https://news.ppy.sh/post/107825388293/best-of-2014-vote-now)
@@ -141,7 +141,7 @@ _Main page: [Best of 2015](./2015/#osu!standard "Best of 2015")_
 | ![#2][#2] | [Konuko - Toumei Elegy (Awaken)](https://osu.ppy.sh/beatmapsets/219380) |
 | ![#3][#3] | [gmtn. (witch's slave) - furioso melodia (Alumetorz)](https://osu.ppy.sh/beatmapsets/280107) |
 
-- [All 1527](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
+- [All 1527](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml# "Google Spreadsheet")
 - [News #1](https://osu.ppy.sh/news/137019258158)
 - [News #2](https://news.ppy.sh/post/137019258158/best-of-2015-voting-now-open)
 - [Results #1](https://osu.ppy.sh/news/138781453998)
@@ -157,7 +157,7 @@ _Main page: [Best of 2016](./2016/#osu!standard "Best of 2016")_
 | ![#2][#2] | [Feint - Tower Of Heaven (You Are Slaves) (eLy)](https://osu.ppy.sh/beatmapsets/128931) |
 | ![#3][#3] | [RADWIMPS - Zen Zen Zense (movie ver.) (Monstrata)](https://osu.ppy.sh/beatmapsets/513590) |
 
-- [All 1265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0)
+- [All 1265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0 "Google Spreadsheet")
 - [Votes](https://osu.ppy.sh/community/contests/39)
 - [News Results](https://osu.ppy.sh/news/157306073998)
 
@@ -173,7 +173,7 @@ _Main page: [Best of 2013](./2013/#osu!taiko "Best of 2013")_
 | ![#2][#2] | [Wotamin - Gigantic O.T.N (Star Stream)](https://osu.ppy.sh/beatmapsets/80214) |
 | ![#3][#3] | [FujuniseikouyuuP - FREEDMAN (val0108)](https://osu.ppy.sh/beatmapsets/108529), [LeaF - Calamity Fortune (Flower)](https://osu.ppy.sh/beatmapsets/96103) |
 
-- [All 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [All 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
@@ -191,7 +191,7 @@ _Main page: [Best of 2014](./2014/#osu!taiko "Best of 2014")_
 | ![#2][#2] | [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Midnaait)](https://osu.ppy.sh/beatmapsets/58951) |
 | ![#3][#3] | [Maffalda - pensamento tipico de esquerda caviar (OnosakiHito)](https://osu.ppy.sh/beatmapsets/175036) |
 
-- [All 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [All 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://osu.ppy.sh/news/107825388293)
@@ -209,7 +209,7 @@ _Main page: [Best of 2015](./2015/#osu!taiko "Best of 2015")_
 | ![#2][#2] | [joeyclassic - seal.mp4 (IntelliTroodon)](https://osu.ppy.sh/beatmapsets/329268) |
 | ![#3][#3] | [CyoucyoP feat.Hatsune Miku - End of the World (TKS)](https://osu.ppy.sh/beatmapsets/215476) |
 
-- [All 226](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (switch tab to "osu!taiko")
+- [All 226](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml# "Google Spreadsheet") (switch tab to "osu!taiko")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2015)
 - [News #1](https://osu.ppy.sh/news/137019258158)
 - [News #2](https://news.ppy.sh/post/137019258158/best-of-2015-voting-now-open)
@@ -226,7 +226,7 @@ _Main page: [Best of 2016](./2016/#osu!taiko "Best of 2016")_
 | ![#2][#2] | [toby fox - Battle Against a True Hero (S a n d)](https://osu.ppy.sh/beatmapsets/371182) |
 | ![#3][#3] | [AAAA Chazuke - Hop Step Adventure* (TKS)](https://osu.ppy.sh/beatmapsets/466471) |
 
-- [All 190](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556)
+- [All 190](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556 "Google Spreadsheet")
 - [Votes](https://osu.ppy.sh/community/contests/40)
 - [News Results](https://osu.ppy.sh/news/157306073998)
 
@@ -242,7 +242,7 @@ _Main page: [Best of 2013](./2013/#osu!catch "Best of 2013")_
 | ![#2][#2] | [DECO*27 feat. marina - Aimai Elegy (val0108)](https://osu.ppy.sh/beatmapsets/43248) |
 | ![#3][#3] | [LeaF - MEPHISTO (Alumetorz)](https://osu.ppy.sh/beatmapsets/106212) |
 
-- [All 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [All 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?sl2c69iz0w34c82)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
@@ -260,7 +260,7 @@ _Main page: [Best of 2014](./2014/#osu!catch "Best of 2014")_
 | ![#2][#2] | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](https://osu.ppy.sh/beatmapsets/157896) |
 | ![#3][#3] | [Warak - REANIMATE (Spectator)](https://osu.ppy.sh/beatmapsets/209103) |
 
-- [All 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [All 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://osu.ppy.sh/news/107825388293)
@@ -278,7 +278,7 @@ _Main page: [Best of 2015](./2015/#osu!catch "Best of 2015")_
 | ![#2][#2] | [Alipio Martins - Piranha (Maffalda Reloaded Trap Mix) (Tarrasky)](https://osu.ppy.sh/beatmapsets/287873) |
 | ![#3][#3] | [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek)](https://osu.ppy.sh/beatmapsets/139525) |
 
-- [All 72](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (switch tab to "osu!catch")
+- [All 72](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml# "Google Spreadsheet") (switch tab to "osu!catch")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2015)
 - [News #1](https://osu.ppy.sh/news/137019258158)
 - [News #2](https://news.ppy.sh/post/137019258158/best-of-2015-voting-now-open)
@@ -295,7 +295,7 @@ _Main page: [Best of 2016](./2016/#osu!catch "Best of 2016")_
 | ![#2][#2] | [Memme - Acid Burst (Priti)](https://osu.ppy.sh/beatmapsets/302535) |
 | ![#3][#3] | [Sengoku Nadeko (CV:Hanazawa Kana) - Mousou Express (Spectator)](https://osu.ppy.sh/beatmapsets/228539) |
 
-- [All 94](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793)
+- [All 94](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793 "Google Spreadsheet")
 - [Votes](https://osu.ppy.sh/community/contests/41)
 - [News Results](https://osu.ppy.sh/news/157306073998)
 
@@ -311,7 +311,7 @@ _Main page: [Best of 2013](./2013/#osu!mania "Best of 2013")_
 | ![#2][#2] | [LeaF - MEPHISTO (Alumetorz)](https://osu.ppy.sh/beatmapsets/106212) |
 | ![#3][#3] | [Igorrr - Unpleasant Sonata (Sieg)](https://osu.ppy.sh/beatmapsets/90385) |
 
-- [All 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298)
+- [All 10](https://docs.google.com/spreadsheets/d/1U5Hsa1CYHz5u_zuHlaSSUHCpjSN1VymB-k5i7qXF02I/edit?pli=1#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2013)
 - Download: [Mediafire](https://www.mediafire.com/?zaf09s6pputo13b)
 - [News #1](https://news.ppy.sh/post/72206495357/best-maps-of-2013-voting)
@@ -329,7 +329,7 @@ _Main page: [Best of 2014](./2014/#osu!mania "Best of 2014")_
 | ![#2][#2] | [Meg &amp; Dia - Monster (DotEXE Remix) (nold_1702)](https://osu.ppy.sh/beatmapsets/157896) |
 | ![#3][#3] | [Yuyoyuppe - AiAe (Fullerene-)](https://osu.ppy.sh/beatmapsets/174381) |
 
-- [All 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)
+- [All 10](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298 "Google Spreadsheet")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2014)
 - Download: [Mediafire](https://www.mediafire.com/?4fpt2dnvwy6gmv2)
 - [News #1](https://osu.ppy.sh/news/107825388293)
@@ -347,7 +347,7 @@ _Main page: [Best of 2015](./2015/#osu!mania "Best of 2015")_
 | ![#2][#2] | [BlackYooh vs. siromaru - BLACK or WHITE? (DE-CADE)](https://osu.ppy.sh/beatmapsets/200552) |
 | ![#3][#3] | [AKINO from bless4 - MIIRO ([ S a k u r a ])](https://osu.ppy.sh/beatmapsets/288794) |
 
-- [All 246](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#) (switch tab to "osu!mania")
+- [All 246](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml# "Google Spreadsheet") (switch tab to "osu!mania")
 - [Charts](https://osu.ppy.sh/p/chart?ch=best2015)
 - [News #1](https://osu.ppy.sh/news/137019258158)
 - [News #2](https://news.ppy.sh/post/137019258158/best-of-2015-voting-now-open)
@@ -364,7 +364,7 @@ _Main page: [Best of 2016](./2016/#osu!mania "Best of 2016")_
 | ![#2][#2] | [t+pazolite - Electric \"Sister\" Bitch (Verniy_Chan)](https://osu.ppy.sh/beatmapsets/310607) |
 | ![#3][#3] | [t+pazolite - CENSORED!! (Kuo Kyoka)](https://osu.ppy.sh/beatmapsets/476221) |
 
-- [All 265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
+- [All 265](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537 "Google Spreadsheet")
 - [Votes](https://osu.ppy.sh/community/contests/42)
 - [News Results](https://osu.ppy.sh/news/157306073998)
 
