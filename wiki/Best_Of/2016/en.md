@@ -18,7 +18,9 @@ We then use the highest of those weightings (up to a maximum of 3) as the vote's
 
 In short, the weighting takes into account the amount of times you've played a map, with it's factor increasing on a logarithmic scale (inversely exponential). The play count component then uses a ratio of player skill over map difficulty (taking into account the mods they had active) to determine the final weighting. This means, for the first time ever, player skill and play count was a real factor in the scoring!
 
-## osu!standard
+## Modes
+
+### osu!standard
 
 - [Full list of osu!standard 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/39)
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=0)
@@ -126,7 +128,7 @@ In short, the weighting takes into account the amount of times you've played a m
 |99|115193|[sakuzyo - AXION by Flower](https://osu.ppy.sh/beatmapsets/115193/ "sakuzyo - AXION by Flower")|531|351.103|
 |100|506155|[Ayalis - Ai o Chikaishi Hime Kazari by handsome](https://osu.ppy.sh/beatmapsets/506155/ "Ayalis - Ai o Chikaishi Hime Kazari by handsome")|426|348.003|
 
-## osu!taiko
+### osu!taiko
 
 - [Full list of osu!taiko 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/40)
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=2136715556)
@@ -234,7 +236,7 @@ In short, the weighting takes into account the amount of times you've played a m
 |99|228815|[sakuzyo - Altale by toybot](https://osu.ppy.sh/beatmapsets/228815/ "sakuzyo - Altale by toybot")|38|22.203|
 |100|323194|[Sawai Miku - Colorful. (kamaboko remix) by Charlotte](https://osu.ppy.sh/beatmapsets/323194/ "Sawai Miku - Colorful. (kamaboko remix) by Charlotte")|44|21.854|
 
-## osu!catch
+### osu!catch
 
 - [Full list of osu!catch 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/41)
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=670395793)
@@ -336,7 +338,7 @@ In short, the weighting takes into account the amount of times you've played a m
 |93|507802|[ROUND TABLE featuring Nino - Puzzle by FoxyGrandpa](https://osu.ppy.sh/beatmapsets/507802/ "ROUND TABLE featuring Nino - Puzzle by FoxyGrandpa")|8|4.14|
 |94|358463|[TOKINE - Negai o Yobu Kisetsu by guineaQ](https://osu.ppy.sh/beatmapsets/358463/ "TOKINE - Negai o Yobu Kisetsu by guineaQ")|2|0.4|
 
-## osu!mania
+### osu!mania
 
 - [Full list of osu!mania 2016 beatmaps (vote screen)](https://osu.ppy.sh/community/contests/42)
 - [Official Google Doc of the results](https://docs.google.com/spreadsheets/d/12Xs9u7dzd5qHxkC_XE77NYjnM7xbnh9FTSMmpIJJkDE/edit#gid=1772269537)
