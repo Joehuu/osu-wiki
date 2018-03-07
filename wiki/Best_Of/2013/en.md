@@ -18,7 +18,7 @@ _Part of the [Best Of](/wiki/Best_Of) series._
 
 ### osu!standard
 
-|Placing|Votes|Beatmap|
+|Placing|Votes|Beatmap (Mapper)|
 |:---:|:---:|:---|
 |![1][#1]|668|[Infected Mushroom - The Pretender (RLC)](http://osu.ppy.sh/beatmapsets/79498/ "Infected Mushroom - The Pretender (RLC)")|
 |![2][#2]|403|[Yousei Teikoku - The Creator (meiikyuu)](http://osu.ppy.sh/beatmapsets/41242/ "Yousei Teikoku - The Creator (meiikyuu)")|
