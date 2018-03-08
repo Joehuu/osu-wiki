@@ -57,7 +57,7 @@ User Groups
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Users going above and beyond the call to ensure your maps get qualified |
 | [Developers](https://osu.ppy.sh/g/11) | Adding new features and fixing the bugs |
 | [osu! Alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Support Team Redux](/wiki/People/Support_Team) | Help/Feature request assistance |
+| [Support Team Redux](/wiki/People/Support_Team) | Tech support/feature request assistance |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | Assuring the quality of beatmaps |
 
 [flag_AU]: /wiki/shared/flags/AU.png "Australia"
