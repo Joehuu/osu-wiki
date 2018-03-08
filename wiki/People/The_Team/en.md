@@ -60,13 +60,13 @@ User Groups
 | [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | We help you enjoy *osu!*, starting with assuring the quality of beatmaps. |
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
