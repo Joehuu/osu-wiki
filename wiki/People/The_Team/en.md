@@ -20,6 +20,7 @@ Active
 | [![][flag_JP] flyte](https://osu.ppy.sh/u/3103765) | Lead designer, [osu!next](https://next.ppy.sh/) |
 | [![][flag_JP] nanaya](https://osu.ppy.sh/u/2387883) | osu!web developer |
 | [![][flag_AU] nekodex](https://osu.ppy.sh/u/102) | osu!web developer |
+| [![][flag_JP] notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
 | [![][flag_US] RBRat3](https://osu.ppy.sh/u/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
 | [![][flag_FR] Shiro](https://osu.ppy.sh/u/113005) | Player support |
 | [![][flag_AU] smoogipooo](https://osu.ppy.sh/u/1040328) | osu!mania development, Bug busting |
@@ -59,13 +60,13 @@ User Groups
 | [Support Team Redux](/wiki/People/Support_Team) | Help/Feature Request assistance |
 | [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) | We help you enjoy *osu!*, starting with assuring the quality of beatmaps. |
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
