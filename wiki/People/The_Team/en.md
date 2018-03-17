@@ -37,7 +37,7 @@ Inactive
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Community management |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! dev team, IRC integration of in-game chat, Site maintenance, [Blog](http://blog.echo.sh/) |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev team, osz2/p2p backend |
-| ![][flag_US] Jim |  Original site design, [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Original site design, [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organization and administration, QAT leadership and community management |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin design, Contributions to default skin and iconset, [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
