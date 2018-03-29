@@ -163,7 +163,7 @@ Do:
 
 #### Bold
 
-*Note: Only use `** **` to bold.*
+*Note: Only use `**_**` to bold.*
 
 Use bold when you need to caution or note something's importance.
 
@@ -171,7 +171,7 @@ When bolding, try to avoid bolding single word(s) but instead bold phrases, as i
 
 #### Italics
 
-*Note: Only use `* *` to italicize.*
+*Note: Only use `*_*` to italicize.*
 
 Use italics only when naming a video game or the name of a work.
 
