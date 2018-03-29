@@ -174,6 +174,7 @@ When bolding, try to avoid bolding single word(s) but instead bold phrases, as i
 ```
 This is better:
 All abbreviations and acronyms of **must be capitalised**.
+
 Than doing this:
 All abbreviations and acronyms of **must** be capitalised.
 ```
