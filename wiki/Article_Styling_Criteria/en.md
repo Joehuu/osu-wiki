@@ -147,6 +147,8 @@ The escaping character in Markdown is the backslash (`\`). To escape the escape 
 
 ### Emphasizing
 
+The name of the game, osu!, is never emphasized.
+
 *Note: Keep in mind that the misuse and abuse of emphasis will reduce its effectiveness!*
 
 When trying to emphasize words, **never use all capital letters**. Instead, bold the words you are trying to emphasize. For example:
@@ -161,11 +163,15 @@ Do:
 
 #### Bold
 
+*Note: Only use `** **` to bold.*
+
 Use bold when you need to caution or note something's importance.
 
 When bolding, try to avoid bolding single word(s) but instead bold phrases, as it might be hard to notice the bolding on a single word.
 
 #### Italics
+
+*Note: Only use `* *` to italicize.*
 
 Use italics only when naming a video game or the name of a work.
 
