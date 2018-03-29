@@ -167,7 +167,16 @@ Do:
 
 Use bold when you need to caution or note something's importance.
 
+---
+
 When bolding, try to avoid bolding single word(s) but instead bold phrases, as it might be hard to notice the bolding on a single word.
+
+```
+This is better:
+All abbreviations and acronyms of **must be capitalised**.
+Than doing this:
+All abbreviations and acronyms of **must** be capitalised.
+```
 
 #### Italics
 
