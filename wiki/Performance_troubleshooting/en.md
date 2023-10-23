@@ -29,7 +29,7 @@ It is quite difficult to provide support when every kind of issue is grouped und
 The actual audio track of the beatmap rewinds in time, or glitches out. Basically, when the game lags, you can hear it in the audio. When diagnosing or reporting, it may help to:
 
 - Check whether it happens on all available audio devices. If you're using a USB headset, try connecting via analog output on your PC instead.
-- Check whether turning on `Audio compatibility mode` in settings helps.
+- On osu!(stable), check whether turning on `Audio compatibility mode` in settings helps.
 
 ### Spike frame
 
