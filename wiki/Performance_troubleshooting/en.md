@@ -8,9 +8,9 @@ Unfortunately, due to the scope of hardware which osu! runs on, it's very hard t
 
 Check to see if you modified any of these default settings on osu!:
 
-- Are you using a [skin](/wiki/Skin)? If so, try switching to the default and see if things improve. Some skins can be crafted in a way which can cause performance issues on some or all systems.
-- Is your frame limiter set to `Unlimited`? Set it to `Optimal` and see if it helps. See [its section below](#unlimited) for more information on why `Unlimited` is usually not the best choice.
-- Are you running windowed? Switch to fullscreen.
+- Are you using a [skin](/wiki/Skin)? If so, try switching back to the default and see if things improve. Some skins can be crafted in a way which can cause performance issues on some or all systems.
+- Is your frame limiter set to `Unlimited`? Set it back to `Optimal` and see if it helps. See [its section below](#unlimited) for more information on why `Unlimited` is usually not the best choice.
+- Are you running windowed? Switch back to fullscreen.
 
 Then check these things from your device:
 
