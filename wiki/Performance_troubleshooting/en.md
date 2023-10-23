@@ -22,18 +22,18 @@ Then check these things from your device:
 
 ## The types of "lag"
 
-It is quite difficult to provide support when every kind of issue is grouped under the single word “lag”, so let’s start by defining some terms for specific scenarios.
+If the above doesn't work for your system, it may be a problem with the game. But it is quite difficult to provide support when every kind of issue is grouped under the single word “lag”, so let’s start by defining some terms for specific scenarios with bullet points to diagnose and report.
 
 ### Audio stuttering
 
-The actual audio track of the beatmap rewinds in time, or glitches out. Basically, when the game lags, you can hear it in the audio. When diagnosing or reporting, it may help to:
+The actual audio track of the beatmap rewinds in time, or glitches out. Basically, when the game lags, you can hear it in the audio. 
 
 - Check whether it happens on all available audio devices. If you're using a USB headset, try connecting via analog output on your PC instead.
 - On osu!(stable), check whether turning on `Audio compatibility mode` in settings helps.
 
 ### Spike frame
 
-During gameplay, everything on the screen stops for long enough to be detrimental to the gameplay experience. This may happen more than once, at random or at consistent intervals. When diagnosing or reporting, it may help to:
+During gameplay, everything on the screen stops for long enough to be detrimental to the gameplay experience. This may happen more than once, at random or at consistent intervals. 
 
 - Count how many times it happens in an average play session.
 - Check whether it always happens.
@@ -44,7 +44,7 @@ During gameplay, everything on the screen stops for long enough to be detrimenta
 
 ### Input latency
 
-There is a noticeable delay between tapping on the keyboard or moving your mouse or tablet pen, and seeing a resulting action on the screen. When diagnosing or reporting, it may help to:
+There is a noticeable delay between tapping on the keyboard or moving your mouse or tablet pen, and seeing a resulting action on the screen. 
 
 - Check whether it happens on all input devices, or one specifically.
 - If you are using non-official drivers, try switching to official ones instead.
@@ -52,13 +52,13 @@ There is a noticeable delay between tapping on the keyboard or moving your mouse
 
 ### Loss of control
 
-During gameplay, one or more input devices stop responding. Everything on screen moves correctly but it’s not possible to play properly until control returns. When diagnosing or reporting, it may help to:
+During gameplay, one or more input devices stop responding. Everything on screen moves correctly but it’s not possible to play properly until control returns. 
 
 - Press `Ctrl` + `F11` to see the frame time display graph. Check whether there is a lot of white on the graph when this occurs (this means another app or driver on your system is using too much CPU time, delaying input).
 
 ### Low frame rate
 
-During gameplay, the frame rate is unable to keep up, resulting in jittery and awkward movement of objects on the screen. This can also result in higher perceived input latency. When diagnosing or reporting, it may help to:
+During gameplay, the frame rate is unable to keep up, resulting in jittery and awkward movement of objects on the screen. This can also result in higher perceived input latency. 
 
 - Check whether it still happens straight after a PC restart.
 - Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.).
