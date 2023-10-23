@@ -14,8 +14,11 @@ Check to see if you modified any of these default settings on osu!:
 
 Then check these things from your device:
 
-- Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
-- Does your PC use an NVIDIA Optimus or similar hybrid graphics setup? If so, try forcing the game to run on each of the GPUs to compare performance. It is quite common for the integrated GPU to provide more consistent performance for games like osu!. Search for “Graphics settings” in Windows and set osu! to either “Power Saving” or “High Performance” to experiment.
+- Windows-specific
+    - Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
+    - Does your PC use an NVIDIA Optimus or similar hybrid graphics setup? If so, try forcing the game to run on each of the GPUs to compare performance. It is quite common for the integrated GPU to provide more consistent performance for games like osu!. Search for “Graphics settings” in Windows and set osu! to either “Power Saving” or “High Performance” to experiment.
+
+- Make sure you have game mode ([Windows 10+](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10), [macOS 14+ with Apple silicon](https://support.apple.com/en-us/HT213658)) enabled. It provides dedicated cores and resources to osu!.
 
 ## The types of "lag"
 
@@ -37,7 +40,6 @@ During gameplay, everything on the screen stops for long enough to be detrimenta
 - Check how often it happens, and whether it's at a consistent interval.
 - Check whether it still happens straight after a PC restart.
 - Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.)
-- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows Windows to provide dedicated cores and resources to osu!.
 - Open task manager and order the list (under Details) by CPU. Look for any high CPU usage when spikes occur, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
 
 ### Input latency
@@ -63,7 +65,6 @@ During gameplay, the frame rate is unable to keep up, resulting in jittery and a
 - Make sure you're not forcing VSync on at your display drivers (it should be set to "off" or "application preference").
 - Try changing frame limiter and see if it improves the situation.
 - Make sure you are running osu! in exclusive (not borderless) fullscreen mode. This will always improve performance.
-- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
 - Open task manager and order the list (under Details) by CPU. Look for any high CPU usage during periods of low frame rate, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
 
 ## Frame Limiters
