@@ -42,13 +42,13 @@ A typical juice stream will contains two fruits (start and end), droplets (slide
 
 Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as *Miss Droplet*, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
 
-#### Bananas
+#### Banana Showers
 
-![Bananas](/wiki/shared/Catch_bananas.jpg "osu!catch bananas")
+![Banana showers](/wiki/shared/Catch_bananas.jpg "osu!catch banana showers")
 
 Here, large bananas will rain down and shrink down to catch size as it falls down to the plate (or not). Each collected bananas will give a static score of 1,100 regardless of mod and combo multiplier.
 
-The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Gameplay/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail.
+The banana showers can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Gameplay/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail.
 
 #### Hyperfruits
 
