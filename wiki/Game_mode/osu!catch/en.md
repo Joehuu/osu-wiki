@@ -34,11 +34,11 @@ All fruits will stay at the plate until its combo ends, which the fruits will bo
 
 To catch these fruits, make sure it falls to the plate and not over the plate. Collected fruits will always give 300 points each, increment combo by 1, and treated as 300 in result screen.
 
-#### Fruit trails
+#### Juice streams
 
-![Fruit trails](/wiki/shared/Catch_trails.jpg "osu!catch fruit trails")
+![Juice streams](/wiki/shared/Catch_trails.jpg "osu!catch juice streams")
 
-A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
+A typical juice stream will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
 
 Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as *Miss Droplet*, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
 
@@ -92,9 +92,9 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 
 ### osu! conversion notes
 
-- Horizontal-axis placement determines the falling point of the fruits(hit circle) or fruit trails(slider).
+- Horizontal-axis placement determines the falling point of the fruits(hit circle) or juice streams(slider).
 - The appearance is based on the timing set to clear it, as usual.
-- Speed of fruit trail is similar to slider ball speed.
+- Speed of juice stream is similar to slider ball speed.
 - Spinner creates a banana rain.
 
 **Note:** Hyperfruits are automatically generated.

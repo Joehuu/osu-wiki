@@ -2,7 +2,7 @@
 
 ## Hit values
 
-![](/wiki/shared/Catch_trails.jpg "osu!catch fruit trails")
+![](/wiki/shared/Catch_trails.jpg "osu!catch juice streams")
 
 A **judgement**, or **hit result**, is the outcome of interacting with a [hit object](/wiki/Gameplay/Hit_object) during its hit window. osu!catch is different from the other game modes in that there is no concept of timing or hit windows, which means everything is judged as either hit or missed.
 
