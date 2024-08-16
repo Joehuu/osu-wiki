@@ -25,7 +25,7 @@ osu!taiko converts are generated according to the placement of [hitsounds](/wiki
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a finish are converted into large red notes<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->.
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a finish AND a whistle, a clap, or both are converted into large blue notes<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->.
 - Sliders with significant lengths are converted into drumrolls<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->.
-- Spinners are converted into dendens (shakers)<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->.
+- Spinners are converted into swells<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->.
 
 ### osu! to osu!catch conversion
 

@@ -58,8 +58,8 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 
 - Doing the drumroll.
 - Not doing the drumroll.
-- Completing the Denden/Shaker
-- Not completing the Denden/Shaker
+- Completing the Swell
+- Not completing the Swell
 
 ### osu!catch
 

@@ -56,13 +56,13 @@ Hit the inner (or outer) parts of the drum continuously for points until the end
 
 Drumrolls can be ignored with no health penalty, as they do not recover the health bar at all. However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
 
-#### Dendens/Shaker
+#### Swells
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)")
+![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (swell)")
 
-Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reaches 0. The starting colour does not matter (you can start with blue or red), and failing to complete it will incur a miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
+Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the swell counter reaches 0. The starting colour does not matter (you can start with blue or red), and failing to complete it will incur a miss health penalty but no combo break. Hitting the same colour will not decrement the swell counter, until a different colour is hit instead.
 
-They do not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect (GREAT) large note score.
+They do not increment the combo counter, and does not recover the health bar in any way. Each successful swell hit only gives a static 300 score, and swell completion will give a perfect (GREAT) large note score.
 
 ## Play Styles
 
@@ -107,7 +107,7 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 - Blue notes need to have a whistle/clap hitsound on that hit circle,
   - large blue notes need both finish and whistle/clap together.
 - The sliders represent the long yellow note (also known as a drumroll)
-- The spinner represents a denden.
+- The spinner represents a swell.
 
 Placement of the notes does not matter.
 
@@ -130,7 +130,7 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
   - 4 times of the length of slider, or
   - 8 times of the length of the slider in songs that is equal or lower than 125 BPM.
 - Unlike the other game modes, *Kiai Time* has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
-  - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
+  - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a swell (the final hit is still multiplied).
 - The mascots for osu!taiko are [pippidon](/wiki/Mascots#pippi) and [Mocha](/wiki/Mascots#mocha).
 - When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *mekkadosu!*.
 

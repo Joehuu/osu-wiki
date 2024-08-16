@@ -65,7 +65,7 @@ Low OD values on osu! maps with high [tempo](/wiki/Music_theory/Tempo) may cause
 Additional effects of increasing OD in each game mode:
 
 - osu!: spinners must be spun more to fill up the gauge, up to the point of becoming nearly impossible to clear on time.
-- osu!taiko: spinners<!-- TODO: it's a denden, but we don't have an article about it --> require more hits to clear.
+- osu!taiko: swells<!-- TODO: we don't have an article about it --> require more hits to clear.
 - osu!mania and osu!catch are not affected by OD.
 
 ## Audio

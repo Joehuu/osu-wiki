@@ -149,13 +149,13 @@ Hit the inner (or outer) drum continuously for points until the end of the drumr
 
 Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all. However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
 
-##### Dendens
+##### Swells
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)")
+![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (swell)")
 
-Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
+Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the swell counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the swell counter, until a different colour is hit instead.
 
-It does not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
+It does not increment the combo counter, and does not recover the health bar in any way. Each successful swell hit only gives a static 300 score, and swell completion will give a perfect(GREAT) large note score.
 
 #### Controls
 

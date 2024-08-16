@@ -41,7 +41,7 @@ No effect:
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the health bar starts off empty and must be filled 50% or more to pass a beatmap. This is done by tapping the correct combination of keys in sync with the beat.
 
-Score bursts will appear after hitting notes, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover more health than a badly timed hit (50). Players also receive larger boosts if they achieve a katu or a geki at the end of a combo. A miss will drain health instead. Failing to complete a denden will result in health loss. Drumrolls can be ignored with no health penalty as they have no influence on the health bar. For an overview of health recovery and health loss see below:
+Score bursts will appear after hitting notes, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover more health than a badly timed hit (50). Players also receive larger boosts if they achieve a katu or a geki at the end of a combo. A miss will drain health instead. Failing to complete a swell will result in health loss. Drumrolls can be ignored with no health penalty as they have no influence on the health bar. For an overview of health recovery and health loss see below:
 
 Health recovery:
 
@@ -50,17 +50,15 @@ Health recovery:
 Health loss:
 
 - Getting 'Miss' or 'Bad' on small/large notes
-- Not completing Dendens
-- Not completing Shakers
+- Not completing Swells
 
 No effect:
 
 - Doing drumrolls
 - Ignoring drumrolls
-- Completing Dendens
-- Completing Shakers
+- Completing Swells
 
-*Note: It is entirely possible for a beatmap to never pass by design due to it only containing drumrolls and/or dendens/shakers.*
+*Note: It is entirely possible for a beatmap to never pass by design due to it only containing drumrolls and/or swells.*
 
 ## osu!catch
 

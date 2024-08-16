@@ -92,7 +92,7 @@ The song title is normally shown as romanised (lower picture), but if you select
 - **Objects**: The total amount of [hit objects](/wiki/Gameplay/Hit_object) in the beatmap.
 - **Circles**: The total amount of [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) (osu! and osu!taiko), [fruits](/wiki/Gameplay/Hit_object/Fruit) (osu!catch), or regular notes (osu!mania) in the beatmap.
 - **Sliders**: The total amount of [sliders](/wiki/Gameplay/Hit_object/Slider) (osu!), drumrolls (osu!taiko), [juice streams](/wiki/Gameplay/Hit_object/Juice_stream) (osu!catch), or hold notes (osu!mania) in the beatmap.
-- **Spinners**: The total amount of [spinners](/wiki/Gameplay/Hit_object/Spinner) (osu!), dendens (osu!taiko), or [banana showers](/wiki/Gameplay/Hit_object/Banana) (osu!catch) in the beatmap.
+- **Spinners**: The total amount of [spinners](/wiki/Gameplay/Hit_object/Spinner) (osu!), swells (osu!taiko), or [banana showers](/wiki/Gameplay/Hit_object/Banana) (osu!catch) in the beatmap.
 - **OD**: The [overall difficulty](/wiki/Beatmap/Overall_difficulty) of the beatmap.
 - **HP**: The [HP drain rate](/wiki/Beatmap/HP_drain_rate). See the article on [health](/wiki/Gameplay/Health) for more details.
 - **Stars**: The [star rating](/wiki/Beatmap/Star_rating) of the beatmap. The amount of stars is also easily visible on the beatmap carousel.

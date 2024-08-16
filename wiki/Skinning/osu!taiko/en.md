@@ -473,7 +473,7 @@ Notes:
 - This element is also used in [osu!](/wiki/Game_mode/osu!).
 - This are the ticks of the roll.
 
-## Shaker
+## Swell
 
 `spinner-warning.png`
 

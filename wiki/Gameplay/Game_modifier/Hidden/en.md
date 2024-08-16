@@ -45,7 +45,7 @@ Although it should be noted that the Hidden mod is considered the easiest diffic
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out, with the condition that the denden has no approach circle to indicate when it times out.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and swells still cross the full timeline and do not fade out, with the condition that the swell has no approach circle to indicate when it times out.
 
 On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock) mod because HR occasionally makes the timing window too small.
 

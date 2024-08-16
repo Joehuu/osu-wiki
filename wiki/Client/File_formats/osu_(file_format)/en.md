@@ -343,7 +343,7 @@ osu!taiko's hit objects only use `time` to determine how they are placed on the 
 
 - Hit circles with whistle or clap hitsounds become kats, and other hit circles become dons. Adding the finish hitsound changes these into their large variants.
 - Sliders become drum rolls.
-- Spinners become denden notes.
+- Spinners become swells.
 
 ### osu!catch
 

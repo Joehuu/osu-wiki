@@ -42,7 +42,7 @@ The Relax mod also disables the in-game interface, thus hiding the [score](/wiki
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the Relax mod removes colour judgement: the correct colour for the note is hit regardless of the colour given. Although the colours of the notes will not be changed.
 
-Along with this, the Relax mod will also give more lenient timing to collect the slider ticks during drumrolls, while dendens can be cleared with any colour sequence instead of alternating the colour sequence. The animated mascot will also be removed.
+Along with this, the Relax mod will also give more lenient timing to collect the slider ticks during drumrolls, while swells can be cleared with any colour sequence instead of alternating the colour sequence. The animated mascot will also be removed.
 
 As opposed to osu!, the Relax mod in osu!taiko *will* display score, combo, and misses.
 

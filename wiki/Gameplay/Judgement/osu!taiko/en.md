@@ -38,7 +38,7 @@ With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, drum rolls also gi
 
 ### Swells
 
-Swells, also known as spinners or dendens, give 300 score per hit. Failing to complete the required amount of hits results in a [health](/wiki/Gameplay/Health) punishment, but they do not give judgements.
+Swells, also known as spinners or swells, give 300 score per hit. Failing to complete the required amount of hits results in a [health](/wiki/Gameplay/Health) punishment, but they do not give judgements.
 
 With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, swells give judgements depending on how many times they are hit:<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SpinnerTaiko.cs#L151-L171 -->
 

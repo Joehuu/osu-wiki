@@ -41,9 +41,9 @@ Additionally, if a player has memorised or become familiar with the movements an
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) as well as the [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorisation or extremely fast hitting on harder difficulties.
 
-The hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod.
+The hits required to finish a swell is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod.
 
-However, this effect is insignificant in most cases because each hit in a denden gives a static score of 300. Which is even smaller than a typical score difference between a GREAT and GOOD hit (550 points at 100x combo or above).
+However, this effect is insignificant in most cases because each hit in a swell gives a static score of 300. Which is even smaller than a typical score difference between a GREAT and GOOD hit (550 points at 100x combo or above).
 
 ### osu!catch
 
