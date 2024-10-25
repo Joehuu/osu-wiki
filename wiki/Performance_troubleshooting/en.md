@@ -17,8 +17,10 @@ Then check these things from your device:
 - Windows-specific
     - Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
     - Does your PC use an NVIDIA Optimus or similar hybrid graphics setup? If so, try forcing the game to run on each of the GPUs to compare performance. It is quite common for the integrated GPU to provide more consistent performance for games like osu!. Search for “Graphics settings” in Windows and set osu! to either “Power Saving” or “High Performance” to experiment.
-
-- Make sure you have game mode ([Windows 10+](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10), [macOS 14+ with Apple silicon](https://support.apple.com/en-us/HT213658)) enabled. It provides dedicated cores and resources to osu!.
+- Any desktop OS
+    - Make sure you have game mode ([Windows 10+](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10), [macOS 14+ with Apple silicon](https://support.apple.com/en-us/HT213658)) enabled. It provides dedicated cores and resources to osu!.
+    - Do you have any desktop customisation apps (e.g. [Rainmeter](https://www.rainmeter.net/), [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/), [Übersicht](https://tracesof.net/uebersicht/)) opened? Try closing them or at least enable the setting that disables them temporarily when the game is in fullscreen.
+    - Are you using a background slideshow for the desktop? Try sticking with a static background as background changing may cause performance issues while you are playing.
 
 ## The types of "lag"
 
@@ -30,6 +32,14 @@ The actual audio track of the beatmap rewinds in time, or glitches out. Basicall
 
 - Check whether it happens on all available audio devices. If you're using a USB headset, try connecting via analog output on your PC instead.
 - On osu!(stable), check whether turning on `Audio compatibility mode` in settings helps.
+
+### Audio delay
+
+There is a noticeable delay with [hitsounds](/wiki/Beatmapping/Hitsound) after tapping a note.
+
+- Are you playing with wireless/Bluetooth headphones? Try using wired headphones or playing with speakers.
+- Are any audio enhancements enabled ([Windows](https://www.windowscentral.com/how-manage-sound-settings-windows-11#section-how-to-enable-enhanced-audio-on-windows-11))? Try turning them off as they cause this.
+
 
 ### Spike frame
 
